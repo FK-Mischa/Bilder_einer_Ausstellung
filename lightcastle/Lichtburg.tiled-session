@@ -6,7 +6,32 @@
         "": {
             "scaleInDock": 1
         },
+        "lightcastle.json": {
+            "scale": 0.95,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -88.42105263157895,
+                "y": 514.7368421052632
+            }
+        },
         "lightcastle.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "room1.json": {
+            "scale": 0.20781249999999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 153.9849624060151,
+                "y": 832.4812030075188
+            }
+        },
+        "room1.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "room2.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         }
     },
@@ -15,5 +40,7 @@
     ],
     "project": "Lichtburg.tiled-project",
     "recentFiles": [
+        "room1.json",
+        "room2.json"
     ]
 }
