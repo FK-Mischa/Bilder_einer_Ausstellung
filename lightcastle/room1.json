@@ -108,7 +108,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/lichtburg-essen.de"
+                 "value":"http:\/\/lichtburg-essen.de"
                 }],
          "type":"tilelayer",
          "visible":true,
