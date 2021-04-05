@@ -8,27 +8,39 @@
         },
         "lightcastle.json": {
             "scale": 0.95,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": -88.42105263157895,
-                "y": 514.7368421052632
+                "x": 366.3157894736842,
+                "y": 512.6315789473683
             }
+        },
+        "lightcastle.json#Lichtburg_aussen_skalliert": {
+            "scaleInEditor": 1
         },
         "lightcastle.json#[Base]BaseChip_pipo": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "room1.json": {
-            "scale": 0.20781249999999998,
-            "selectedLayer": 0,
+            "scale": 3,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 153.9849624060151,
-                "y": 832.4812030075188
+                "x": 131.99999999999997,
+                "y": 155.99999999999997
             }
         },
         "room1.json#[Base]BaseChip_pipo": {
+            "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "room2.json": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 51.99999999999997,
+                "y": 265.33333333333337
+            }
         },
         "room2.json#[Base]BaseChip_pipo": {
             "scaleInDock": 1,
@@ -39,8 +51,10 @@
     "openFiles": [
     ],
     "project": "Lichtburg.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
         "room1.json",
         "room2.json"
-    ]
+    ],
+    "tileset.embedInMap": true
 }
