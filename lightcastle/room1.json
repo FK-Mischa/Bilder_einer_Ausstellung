@@ -108,7 +108,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/lichtburg-essen.de"
+                 "value":"https:\/\/filmspiegel-essen.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
