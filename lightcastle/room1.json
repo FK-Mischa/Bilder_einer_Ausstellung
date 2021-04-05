@@ -108,7 +108,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/familienkonzerte.info\/?p=537"
+                 "value":"https:\/\/familienkonzerte.info\/?page_id=540"
                 }],
          "type":"tilelayer",
          "visible":true,
