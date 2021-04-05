@@ -72,7 +72,7 @@
     "openFiles": [
     ],
     "project": "Lichtburg.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "foyer.json",
         "room1.json",
