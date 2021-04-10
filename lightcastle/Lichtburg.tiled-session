@@ -10,11 +10,14 @@
         },
         "foyer.json": {
             "scale": 0.9023200757575758,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 509.2427979220234,
-                "y": 322.5019677808679
+                "y": 321.39371359605394
             }
+        },
+        "foyer.json#Infotafel_text_skaliert": {
+            "scaleInDock": 1
         },
         "foyer.json#Lichtburg_Foyer-skalliert": {
             "scaleInDock": 0.5,
@@ -43,8 +46,8 @@
             "scale": 2.0068749999999995,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 159.7010277172221,
-                "y": 239.67611336032394
+                "x": 264.83961382746816,
+                "y": 271.56649018997206
             }
         },
         "room1.json#Ochsenwagen-10Kacheln": {
@@ -79,8 +82,8 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "lightcastle.json",
         "room1.json",
+        "lightcastle.json",
         "foyer.json",
         "room2.json"
     ],
