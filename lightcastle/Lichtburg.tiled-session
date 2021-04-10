@@ -1,6 +1,7 @@
 {
-    "activeFile": "",
+    "activeFile": "room2.json",
     "expandedProjectPaths": [
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -9,10 +10,10 @@
         },
         "foyer.json": {
             "scale": 0.9023200757575758,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 497.0520018890697,
-                "y": 369.048643543055
+                "x": 509.2427979220234,
+                "y": 322.5019677808679
             }
         },
         "foyer.json#Lichtburg_Foyer-skalliert": {
@@ -26,8 +27,8 @@
             "scale": 0.95,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 430.5263157894737,
-                "y": 356.8421052631578
+                "x": 363.6842105263157,
+                "y": 303.1578947368421
             }
         },
         "lightcastle.json#Lichtburg_aussen_skalliert": {
@@ -40,10 +41,10 @@
         },
         "room1.json": {
             "scale": 2.0068749999999995,
-            "selectedLayer": 5,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 160.19931485518538,
-                "y": 240.17440049828724
+                "x": 159.7010277172221,
+                "y": 239.67611336032394
             }
         },
         "room1.json#Ochsenwagen-10Kacheln": {
@@ -59,8 +60,8 @@
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 94.66666666666669,
-                "y": 264.66666666666663
+                "x": 168.99999999999997,
+                "y": 160.66666666666666
             }
         },
         "room2.json#[Base]BaseChip_pipo": {
@@ -68,14 +69,19 @@
             "scaleInEditor": 1
         }
     },
-    "last.imagePath": "E:/Mischa/github/Bilder_einer_Ausstellung/lightcastle/tiles",
+    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles",
     "openFiles": [
+        "lightcastle.json",
+        "room1.json",
+        "room2.json",
+        "foyer.json"
     ],
     "project": "Lichtburg.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "foyer.json",
+        "lightcastle.json",
         "room1.json",
+        "foyer.json",
         "room2.json"
     ],
     "tileset.embedInMap": true
