@@ -101,11 +101,14 @@
         },
         "vorlage.json": {
             "scale": 0.844744318181818,
-            "selectedLayer": 4,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 497.7837565158904,
                 "y": 336.1964015469985
             }
+        },
+        "vorlage.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
+            "scaleInDock": 1
         },
         "vorlage.json#[Base]BaseChip_pipo": {
             "scaleInDock": 1
