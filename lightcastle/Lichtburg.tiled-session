@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "foyer.json",
+    "activeFile": "Ballett_Kuecklein.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -40,15 +40,27 @@
         },
         "Ballett_Kuecklein.json": {
             "scale": 0.844744318181818,
-            "selectedLayer": 5,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 514.3568185639818,
                 "y": 490.0891205649908
             }
         },
+        "Ballett_Kuecklein.json#Infotafel": {
+            "scaleInDock": 1
+        },
+        "Ballett_Kuecklein.json#Kostuementwurf_Hartmann_skaliert": {
+            "scaleInDock": 1
+        },
         "Ballett_Kuecklein.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "Ballett_Kuecklein.json#Lichtburg_aussen_skalliert": {
+            "scaleInDock": 1
+        },
+        "Ballett_Kuecklein.json#Museumsfuehrerin_skaliert": {
+            "scaleInDock": 1
         },
         "Ballett_Kuecklein.json#[Base]BaseChip_pipo": {
             "scaleInDock": 0.75
@@ -137,20 +149,20 @@
     "map.width": 32,
     "openFiles": [
         "lightcastle.json",
-        "room2.json",
-        "foyer.json"
+        "foyer.json",
+        "Ballett_Kuecklein.json"
     ],
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Ballett_Kuecklein-Aktivbeitrag.json",
+        "lightcastle.json",
+        "foyer.json",
         "Ballett_Kuecklein.json",
+        "Ballett_Kuecklein-Aktivbeitrag.json",
         "vorlage.json",
         "room1.json",
         "room2.json",
-        "Ballett_Kuechlein.json",
-        "lightcastle.json",
-        "foyer.json"
+        "Ballett_Kuechlein.json"
     ],
     "tileset.embedInMap": true
 }
