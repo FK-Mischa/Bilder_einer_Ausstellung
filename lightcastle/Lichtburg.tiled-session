@@ -30,7 +30,7 @@
             }
         },
         "Ballett_Kuecklein.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
-            "scaleInDock": 0.25,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "Ballett_Kuecklein.json#[Base]BaseChip_pipo": {
