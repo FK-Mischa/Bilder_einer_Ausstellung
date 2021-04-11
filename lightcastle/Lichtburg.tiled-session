@@ -22,18 +22,18 @@
         },
         "Ballett_Kuecklein.json": {
             "scale": 0.844744318181818,
-            "selectedLayer": 4,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 514.3568185639818,
-                "y": 335.0126114007063
+                "y": 333.82882125441404
             }
         },
         "Ballett_Kuecklein.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
-            "scaleInDock": 0.5,
+            "scaleInDock": 0.25,
             "scaleInEditor": 1
         },
         "Ballett_Kuecklein.json#[Base]BaseChip_pipo": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.25
         },
         "foyer.json": {
             "scale": 0.9023200757575758,
@@ -57,8 +57,8 @@
             "scale": 0.95,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 363.1578947368421,
-                "y": 303.1578947368421
+                "x": 803.6842105263158,
+                "y": 302.10526315789474
             }
         },
         "lightcastle.json#Lichtburg_aussen_skalliert": {
