@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/foyer.json#entryLightcastle"
+                 "value":".\/foyer.json#entryFoyer"
                 }],
          "type":"tilelayer",
          "visible":true,

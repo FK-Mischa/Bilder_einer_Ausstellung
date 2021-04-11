@@ -10,7 +10,8 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Ballett_Kuechlein.json": {
             "scale": 0.844744318181818,
@@ -22,10 +23,10 @@
         },
         "Ballett_Kuecklein.json": {
             "scale": 0.844744318181818,
-            "selectedLayer": 2,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 514.3568185639818,
-                "y": 333.82882125441404
+                "y": 490.0891205649908
             }
         },
         "Ballett_Kuecklein.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
@@ -33,7 +34,7 @@
             "scaleInEditor": 1
         },
         "Ballett_Kuecklein.json#[Base]BaseChip_pipo": {
-            "scaleInDock": 0.25
+            "scaleInDock": 0.75
         },
         "foyer.json": {
             "scale": 0.9023200757575758,
@@ -55,10 +56,10 @@
         },
         "lightcastle.json": {
             "scale": 0.95,
-            "selectedLayer": 4,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 803.6842105263158,
-                "y": 302.10526315789474
+                "x": 284.7368421052632,
+                "y": 301.0526315789474
             }
         },
         "lightcastle.json#Lichtburg_aussen_skalliert": {
@@ -71,7 +72,7 @@
         },
         "room1.json": {
             "scale": 2.0068749999999995,
-            "selectedLayer": 4,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 264.83961382746816,
                 "y": 271.56649018997206
@@ -100,9 +101,9 @@
         },
         "vorlage.json": {
             "scale": 0.844744318181818,
-            "selectedLayer": 0,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 496.5999663695983,
+                "x": 497.7837565158904,
                 "y": 336.1964015469985
             }
         },
@@ -122,9 +123,9 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "room2.json",
-        "room1.json",
         "vorlage.json",
+        "room1.json",
+        "room2.json",
         "Ballett_Kuechlein.json",
         "lightcastle.json",
         "foyer.json"
