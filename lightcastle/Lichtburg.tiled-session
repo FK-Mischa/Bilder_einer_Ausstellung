@@ -146,7 +146,7 @@
         },
         "Schloss.json": {
             "scale": 0.844744318181818,
-            "selectedLayer": 1,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 498.3756515890366,
                 "y": 336.1964015469985
@@ -155,8 +155,11 @@
         "Schloss.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
             "scaleInDock": 1
         },
+        "Schloss.json#Schottland_Schlossbreite704": {
+            "scaleInDock": 0.25
+        },
         "Schloss.json#[Base]BaseChip_pipo": {
-            "scaleInDock": 1
+            "scaleInDock": 0.25
         },
         "Schloss.json#neuSchlossbreite640": {
             "scaleInDock": 1
