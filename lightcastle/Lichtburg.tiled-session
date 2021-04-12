@@ -90,8 +90,8 @@
             "scale": 0.9008300781249999,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 278.6319041682476,
-                "y": 189.8249227600412
+                "x": 377.98471461867854,
+                "y": 188.71483549243862
             }
         },
         "Ballett_Kuecklein.json#Infotafel": {
@@ -174,10 +174,10 @@
         },
         "foyer.json": {
             "scale": 0.9023200757575758,
-            "selectedLayer": 5,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 297.5662486225534,
-                "y": 234.94988718056354
+                "x": -79.2401742141995,
+                "y": 233.84163299574956
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
