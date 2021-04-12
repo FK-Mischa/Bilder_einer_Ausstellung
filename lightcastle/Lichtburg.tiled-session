@@ -34,20 +34,27 @@
         },
         "Altes_Schloss.json": {
             "scale": 0.873532196969697,
-            "selectedLayer": 2,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 496.2610439590222,
-                "y": 337.70936094097243
+                "y": 336.5645834462573
             }
         },
+        "Altes_Schloss.json#Infotafel_Schloss_skaliert": {
+            "scaleInDock": 1
+        },
         "Altes_Schloss.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
+            "scaleInDock": 1
+        },
+        "Altes_Schloss.json#Museumsfuehrerin_skaliert": {
             "scaleInDock": 1
         },
         "Altes_Schloss.json#Schottland_Schloss_skaliert": {
             "scaleInDock": 1
         },
         "Altes_Schloss.json#[Base]BaseChip_pipo": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Ballett_Kuechlein.json": {
             "scale": 0.844744318181818,
@@ -59,10 +66,10 @@
         },
         "Ballett_Kuecklein-Aktivbeitrag.json": {
             "scale": 0.873532196969697,
-            "selectedLayer": 0,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 496.2610439590222,
-                "y": 290.77348365765084
+                "y": 291.918261152366
             }
         },
         "Ballett_Kuecklein-Aktivbeitrag.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
@@ -76,7 +83,7 @@
         },
         "Ballett_Kuecklein.json": {
             "scale": 0.844744318181818,
-            "selectedLayer": 2,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 520.2757692954432,
                 "y": 490.0891205649908
@@ -166,7 +173,7 @@
         },
         "vorlage.json": {
             "scale": 0.844744318181818,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 497.7837565158904,
                 "y": 336.1964015469985
@@ -187,17 +194,17 @@
         "room1.json"
     ],
     "project": "Lichtburg.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
-        "Altes_Schloss.json",
-        "Altes Schloss.json",
         "Ballett_Kuecklein.json",
-        "lightcastle.json",
+        "vorlage.json",
+        "Ballett_Kuecklein-Aktivbeitrag.json",
         "foyer.json",
+        "Altes_Schloss.json",
+        "lightcastle.json",
+        "Altes Schloss.json",
         "room2.json",
         "room1.json",
-        "Ballett_Kuecklein-Aktivbeitrag.json",
-        "vorlage.json",
         "Ballett_Kuechlein.json"
     ],
     "tileset.embedInMap": true
