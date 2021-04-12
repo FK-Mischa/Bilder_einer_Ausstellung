@@ -36,7 +36,7 @@
             "scale": 0.873532196969697,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 481.3789365277251,
+                "x": 191.75023036478945,
                 "y": 115.62252696623125
             }
         },
@@ -84,11 +84,11 @@
             "scaleInDock": 1
         },
         "Ballett_Kuecklein.json": {
-            "scale": 0.844744318181818,
+            "scale": 0.9008300781249999,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 520.2757692954432,
-                "y": 490.0891205649908
+                "x": 512.3052739985908,
+                "y": 288.62268957667084
             }
         },
         "Ballett_Kuecklein.json#Infotafel": {
@@ -198,8 +198,8 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Altes_Schloss.json",
         "Ballett_Kuecklein.json",
+        "Altes_Schloss.json",
         "vorlage.json",
         "Ballett_Kuecklein-Aktivbeitrag.json",
         "foyer.json",
