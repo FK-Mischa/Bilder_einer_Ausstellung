@@ -88,10 +88,10 @@
         },
         "Ballett_Kuecklein.json": {
             "scale": 0.9008300781249999,
-            "selectedLayer": 2,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 512.860317632392,
-                "y": 288.62268957667084
+                "x": 278.6319041682476,
+                "y": 189.8249227600412
             }
         },
         "Ballett_Kuecklein.json#Infotafel": {
@@ -146,10 +146,10 @@
         },
         "Schloss.json": {
             "scale": 1.218478260869565,
-            "selectedLayer": 5,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 335.6645851917931,
-                "y": 288.0642283675291
+                "x": 162.4977698483497,
+                "y": 215.0223015165032
             }
         },
         "Schloss.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
@@ -174,21 +174,25 @@
         },
         "foyer.json": {
             "scale": 0.9023200757575758,
-            "selectedLayer": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 492.0648580574067,
-                "y": 334.69276381382167
+                "x": 297.5662486225534,
+                "y": 234.94988718056354
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
-            "scaleInDock": 1
+            "scaleInDock": 0.25,
+            "scaleInEditor": 0.25
+        },
+        "foyer.json#Lichtburg_Foyer-09-08-03_6356-1024x681": {
+            "scaleInDock": 0.25
         },
         "foyer.json#Lichtburg_Foyer-skalliert": {
-            "scaleInDock": 0.5,
+            "scaleInDock": 0.25,
             "scaleInEditor": 1
         },
         "foyer.json#[Base]BaseChip_pipo": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.25
         },
         "lightcastle.json": {
             "scale": 0.95,
@@ -295,7 +299,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Altes Schloss",
+    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 20,
