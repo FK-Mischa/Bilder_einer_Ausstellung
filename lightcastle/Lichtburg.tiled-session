@@ -52,7 +52,7 @@
         },
         "Altes_Schloss.json#Schottland_Schloss_skaliert": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 0.25
         },
         "Altes_Schloss.json#[Base]BaseChip_pipo": {
             "scaleInDock": 1,
