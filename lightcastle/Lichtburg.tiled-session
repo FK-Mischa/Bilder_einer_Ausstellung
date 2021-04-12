@@ -112,7 +112,7 @@
         },
         "Neu_Altes_Schloss.json": {
             "scale": 0.844744318181818,
-            "selectedLayer": 1,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 498.3756515890366,
                 "y": 336.1964015469985
@@ -229,12 +229,12 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Neu_Altes_Schloss.json",
+        "room2.json",
         "Altes_Schloss.json",
         "Neuvorlage.json",
-        "Neu_Altes_Schloss.json",
         "foyer.json",
         "vorlage.json",
-        "room2.json",
         "lightcastle.json",
         "Ballett_Kuecklein.json",
         "Ballett_Kuecklein-Aktivbeitrag.json",
