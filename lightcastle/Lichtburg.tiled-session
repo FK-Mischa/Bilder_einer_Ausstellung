@@ -34,10 +34,10 @@
         },
         "Altes_Schloss.json": {
             "scale": 0.873532196969697,
-            "selectedLayer": 5,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 191.75023036478945,
-                "y": 115.62252696623125
+                "x": 507.13643015881615,
+                "y": 64.10753970404903
             }
         },
         "Altes_Schloss.json#Infotafel_Schloss_skaliert": {
@@ -87,7 +87,7 @@
             "scale": 0.9008300781249999,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 512.3052739985908,
+                "x": 512.860317632392,
                 "y": 288.62268957667084
             }
         },
@@ -110,12 +110,43 @@
         "Ballett_Kuecklein.json#[Base]BaseChip_pipo": {
             "scaleInDock": 0.75
         },
+        "Neu_Altes_Schloss.json": {
+            "scale": 0.844744318181818,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 498.3756515890366,
+                "y": 336.1964015469985
+            }
+        },
+        "Neu_Altes_Schloss.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
+            "scaleInDock": 1
+        },
+        "Neu_Altes_Schloss.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "Neu_Altes_Schloss.json#neuSchlossbreite640": {
+            "scaleInDock": 0.25
+        },
+        "Neuvorlage.json": {
+            "scale": 0.844744318181818,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 498.3756515890366,
+                "y": 336.1964015469985
+            }
+        },
+        "Neuvorlage.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
+            "scaleInDock": 1
+        },
+        "Neuvorlage.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1
+        },
         "foyer.json": {
             "scale": 0.9023200757575758,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 278.7259274807157,
-                "y": 238.27464973500548
+                "x": 495.3896206118486,
+                "y": 334.69276381382167
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
@@ -132,7 +163,7 @@
             "scale": 0.95,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 367.8947368421052,
+                "x": 368.4210526315789,
                 "y": 304.2105263157895
             }
         },
@@ -148,8 +179,8 @@
             "scale": 2.0068749999999995,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 147.24384926814082,
-                "y": 271.0682030520088
+                "x": 140.51697290563692,
+                "y": 270.56991591404557
             }
         },
         "room1.json#Ochsenwagen-10Kacheln": {
@@ -165,7 +196,7 @@
             "scale": 1.5,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 160.33333333333331,
+                "x": 160.66666666666666,
                 "y": 160
             }
         },
@@ -177,7 +208,7 @@
             "scale": 0.844744318181818,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 497.7837565158904,
+                "x": 498.3756515890366,
                 "y": 336.1964015469985
             }
         },
@@ -189,23 +220,25 @@
         }
     },
     "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Altes Schloss",
-    "map.height": 25,
+    "map.height": 10,
     "map.lastUsedFormat": "json",
-    "map.width": 32,
+    "map.width": 20,
     "openFiles": [
         "room1.json"
     ],
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Ballett_Kuecklein.json",
         "Altes_Schloss.json",
-        "vorlage.json",
-        "Ballett_Kuecklein-Aktivbeitrag.json",
+        "Neuvorlage.json",
+        "Neu_Altes_Schloss.json",
         "foyer.json",
-        "lightcastle.json",
-        "Altes Schloss.json",
+        "vorlage.json",
         "room2.json",
+        "lightcastle.json",
+        "Ballett_Kuecklein.json",
+        "Ballett_Kuecklein-Aktivbeitrag.json",
+        "Altes Schloss.json",
         "room1.json",
         "Ballett_Kuechlein.json"
     ],
