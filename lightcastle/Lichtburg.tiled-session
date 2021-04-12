@@ -58,6 +58,9 @@
             "scaleInDock": 1,
             "scaleInEditor": 0.25
         },
+        "Altes_Schloss.json#neuSchlossbreite640": {
+            "scaleInDock": 1
+        },
         "Ballett_Kuechlein.json": {
             "scale": 0.844744318181818,
             "selectedLayer": 0,
@@ -85,7 +88,7 @@
         },
         "Ballett_Kuecklein.json": {
             "scale": 0.9008300781249999,
-            "selectedLayer": 6,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 512.860317632392,
                 "y": 288.62268957667084
@@ -139,6 +142,23 @@
             "scaleInDock": 1
         },
         "Neuvorlage.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "Schloss.json": {
+            "scale": 0.844744318181818,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 498.3756515890366,
+                "y": 336.1964015469985
+            }
+        },
+        "Schloss.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
+            "scaleInDock": 1
+        },
+        "Schloss.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "Schloss.json#neuSchlossbreite640": {
             "scaleInDock": 1
         },
         "foyer.json": {
@@ -217,6 +237,20 @@
         },
         "vorlage.json#[Base]BaseChip_pipo": {
             "scaleInDock": 1
+        },
+        "vorlageklein.json": {
+            "scale": 1.3345238095238094,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 304.228367528992,
+                "y": 160.35682426404998
+            }
+        },
+        "vorlageklein.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
+            "scaleInDock": 1
+        },
+        "vorlageklein.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1
         }
     },
     "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Altes Schloss",
@@ -229,9 +263,9 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Altes_Schloss.json",
         "Neu_Altes_Schloss.json",
         "room2.json",
-        "Altes_Schloss.json",
         "Neuvorlage.json",
         "foyer.json",
         "vorlage.json",
