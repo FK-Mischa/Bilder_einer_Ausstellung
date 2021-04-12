@@ -146,10 +146,10 @@
         },
         "Schloss.json": {
             "scale": 1.218478260869565,
-            "selectedLayer": 2,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 235.95004460303304,
-                "y": 214.2016057091883
+                "x": 408.29616413916153,
+                "y": 285.6021409455844
             }
         },
         "Schloss.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
@@ -174,10 +174,10 @@
         },
         "foyer.json": {
             "scale": 0.9023200757575758,
-            "selectedLayer": 2,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": -79.2401742141995,
-                "y": 233.84163299574956
+                "x": 472.6704098231621,
+                "y": 329.1514928897518
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
@@ -198,7 +198,7 @@
             "scale": 0.95,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 368.4210526315789,
+                "x": 368.94736842105266,
                 "y": 304.2105263157895
             }
         },
