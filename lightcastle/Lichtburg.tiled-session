@@ -34,7 +34,7 @@
         },
         "Altes_Schloss.json": {
             "scale": 0.873532196969697,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 496.2610439590222,
                 "y": 336.5645834462573
@@ -50,11 +50,12 @@
             "scaleInDock": 1
         },
         "Altes_Schloss.json#Schottland_Schloss_skaliert": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Altes_Schloss.json#[Base]BaseChip_pipo": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 0.25
         },
         "Ballett_Kuechlein.json": {
             "scale": 0.844744318181818,
@@ -196,11 +197,11 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Altes_Schloss.json",
         "Ballett_Kuecklein.json",
         "vorlage.json",
         "Ballett_Kuecklein-Aktivbeitrag.json",
         "foyer.json",
-        "Altes_Schloss.json",
         "lightcastle.json",
         "Altes Schloss.json",
         "room2.json",
