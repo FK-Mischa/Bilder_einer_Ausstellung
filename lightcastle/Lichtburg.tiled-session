@@ -90,8 +90,8 @@
             "scale": 0.9008300781249999,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 377.98471461867854,
-                "y": 188.71483549243862
+                "x": 389.08558729470434,
+                "y": 187.60474822483604
             }
         },
         "Ballett_Kuecklein.json#Infotafel": {
@@ -145,11 +145,11 @@
             "scaleInDock": 1
         },
         "Schloss.json": {
-            "scale": 1.218478260869565,
+            "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 235.95004460303304,
-                "y": 212.56021409455843
+                "x": 355.5,
+                "y": 212
             }
         },
         "Schloss.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
