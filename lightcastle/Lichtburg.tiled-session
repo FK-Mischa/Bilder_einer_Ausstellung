@@ -15,22 +15,39 @@
         },
         "Altes Schloss.json": {
             "scale": 0.844744318181818,
-            "selectedLayer": 5,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 497.7837565158904,
-                "y": 335.0126114007063
+                "y": 333.82882125441404
             }
         },
         "Altes Schloss.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
             "scaleInDock": 1
         },
         "Altes Schloss.json#Schottland_Schloss_skaliert": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.25,
             "scaleInEditor": 1
         },
         "Altes Schloss.json#[Base]BaseChip_pipo": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.25,
             "scaleInEditor": 1
+        },
+        "Altes_Schloss.json": {
+            "scale": 0.873532196969697,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 496.2610439590222,
+                "y": 336.5645834462573
+            }
+        },
+        "Altes_Schloss.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
+            "scaleInDock": 1
+        },
+        "Altes_Schloss.json#Schottland_Schloss_skaliert": {
+            "scaleInDock": 1
+        },
+        "Altes_Schloss.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1
         },
         "Ballett_Kuechlein.json": {
             "scale": 0.844744318181818,
@@ -59,7 +76,7 @@
         },
         "Ballett_Kuecklein.json": {
             "scale": 0.844744318181818,
-            "selectedLayer": 1,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 520.2757692954432,
                 "y": 490.0891205649908
@@ -86,7 +103,7 @@
         },
         "foyer.json": {
             "scale": 0.9023200757575758,
-            "selectedLayer": 4,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 511.4593062916513,
                 "y": 336.9092721834496
@@ -170,14 +187,15 @@
         "room1.json"
     ],
     "project": "Lichtburg.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
+        "Altes_Schloss.json",
+        "Altes Schloss.json",
         "Ballett_Kuecklein.json",
         "lightcastle.json",
         "foyer.json",
         "room2.json",
         "room1.json",
-        "Altes Schloss.json",
         "Ballett_Kuecklein-Aktivbeitrag.json",
         "vorlage.json",
         "Ballett_Kuechlein.json"
