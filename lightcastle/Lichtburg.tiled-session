@@ -88,7 +88,7 @@
         },
         "Ballett_Kuecklein.json": {
             "scale": 0.9008300781249999,
-            "selectedLayer": 5,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 512.860317632392,
                 "y": 288.62268957667084
@@ -145,30 +145,38 @@
             "scaleInDock": 1
         },
         "Schloss.json": {
-            "scale": 0.844744318181818,
-            "selectedLayer": 2,
+            "scale": 1.218478260869565,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 498.3756515890366,
-                "y": 336.1964015469985
+                "x": 335.6645851917931,
+                "y": 288.0642283675291
             }
         },
         "Schloss.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
             "scaleInDock": 1
         },
+        "Schloss.json#Museumsfuehrerin_skaliert": {
+            "scaleInDock": 1
+        },
         "Schloss.json#Schottland_Schlossbreite704": {
-            "scaleInDock": 0.25
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
         },
         "Schloss.json#[Base]BaseChip_pipo": {
-            "scaleInDock": 0.25
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Schloss.json#neuInfotafel_Schlossbreite128": {
+            "scaleInDock": 1
         },
         "Schloss.json#neuSchlossbreite640": {
             "scaleInDock": 1
         },
         "foyer.json": {
             "scale": 0.9023200757575758,
-            "selectedLayer": 5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 495.3896206118486,
+                "x": 492.0648580574067,
                 "y": 334.69276381382167
             }
         },
@@ -241,6 +249,37 @@
         "vorlage.json#[Base]BaseChip_pipo": {
             "scaleInDock": 1
         },
+        "vorlage22x10.json": {
+            "scale": 1.218478260869565,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.48528099910794,
+                "y": 176.03925066904551
+            }
+        },
+        "vorlage22x10.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
+            "scaleInDock": 1
+        },
+        "vorlage22x10.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "vorlage22x10.json#neuSchlossbreite640": {
+            "scaleInDock": 1
+        },
+        "vorlagealt.json": {
+            "scale": 0.8492424242424241,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 494.5584299732383,
+                "y": 336.77074041034797
+            }
+        },
+        "vorlagealt.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
+            "scaleInDock": 1
+        },
+        "vorlagealt.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1
+        },
         "vorlageklein.json": {
             "scale": 1.3345238095238094,
             "selectedLayer": 0,
@@ -266,18 +305,18 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "room1.json",
+        "foyer.json",
+        "vorlagealt.json",
+        "vorlageklein.json",
+        "Schloss.json",
+        "vorlage22x10.json",
         "Altes_Schloss.json",
         "Neu_Altes_Schloss.json",
         "room2.json",
         "Neuvorlage.json",
-        "foyer.json",
         "vorlage.json",
-        "lightcastle.json",
-        "Ballett_Kuecklein.json",
-        "Ballett_Kuecklein-Aktivbeitrag.json",
-        "Altes Schloss.json",
-        "room1.json",
-        "Ballett_Kuechlein.json"
+        "lightcastle.json"
     ],
     "tileset.embedInMap": true
 }
