@@ -56,6 +56,12 @@
          "id":12,
          "name":"exitGnom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":".\/Gnom.json#entryGnom"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
