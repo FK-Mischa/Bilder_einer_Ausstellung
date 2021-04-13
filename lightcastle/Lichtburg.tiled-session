@@ -208,9 +208,9 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 520,
+                "x": 452.6315789473684,
                 "y": 344.2105263157895
             }
         },
@@ -233,8 +233,8 @@
             "scale": 0.95,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 367.36842105263156,
-                "y": 304.2105263157895
+                "x": 366.3157894736842,
+                "y": 303.1578947368421
             }
         },
         "lightcastle.json#Lichtburg_aussen_skalliert": {
@@ -345,13 +345,13 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Schloss.json",
+        "lightcastle.json",
         "foyer.json",
         "vorlagealt.json",
         "vorlage22x10.json",
         "Gnom.json",
-        "Schloss.json",
         "Ballett_Kuecklein.json",
-        "lightcastle.json",
         "room1.json",
         "room2.json",
         "vorlageklein.json",
