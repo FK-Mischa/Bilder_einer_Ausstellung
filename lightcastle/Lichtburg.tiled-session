@@ -117,8 +117,8 @@
             "scale": 1.218478260869565,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 361.92685102586984,
-                "y": 180.5530776092775
+                "x": 384.49598572702956,
+                "y": 137.87689562890276
             }
         },
         "Gnom.json#Infotafel_Gnom_skaliert": {
@@ -208,10 +208,10 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 0,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 452.6315789473684,
-                "y": 344.2105263157895
+                "x": 419.4736842105263,
+                "y": 388.42105263157896
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
