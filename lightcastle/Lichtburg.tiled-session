@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "vorlage22x10.json",
+    "activeFile": "foyer.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -117,8 +117,8 @@
             "scale": 1.218478260869565,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 343.0508474576271,
-                "y": 278.21587867975023
+                "x": 351.6681534344336,
+                "y": 47.1900089206066
             }
         },
         "Gnom.json#Infotafel_Gnom_skaliert": {
@@ -207,8 +207,8 @@
             "scale": 0.95,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 510.52631578947364,
-                "y": 336.8421052631579
+                "x": 517.8947368421052,
+                "y": 345.26315789473676
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
@@ -335,22 +335,19 @@
     "map.lastUsedFormat": "json",
     "map.width": 20,
     "openFiles": [
-        "Ballett_Kuecklein.json",
-        "Schloss.json",
-        "foyer.json",
-        "lightcastle.json",
-        "vorlage22x10.json"
+        "Gnom.json",
+        "foyer.json"
     ],
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Schloss.json",
+        "Gnom.json",
         "foyer.json",
+        "Schloss.json",
         "Ballett_Kuecklein.json",
         "lightcastle.json",
         "room1.json",
         "vorlage22x10.json",
-        "Gnom.json",
         "room2.json",
         "vorlagealt.json",
         "vorlageklein.json",
