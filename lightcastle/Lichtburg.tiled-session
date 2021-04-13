@@ -115,13 +115,16 @@
         },
         "Gnom.json": {
             "scale": 1.218478260869565,
-            "selectedLayer": 4,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 351.2578055307761,
-                "y": 62.372881355932236
+                "x": 350.4371097234612,
+                "y": 61.55218554861733
             }
         },
         "Gnom.json#Infotafel_Gnom_skaliert": {
+            "scaleInDock": 1
+        },
+        "Gnom.json#Infotafel_Gnom_skaliert_neu": {
             "scaleInDock": 1
         },
         "Gnom.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
@@ -172,8 +175,8 @@
             "scale": 1,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 342,
-                "y": 390
+                "x": 341,
+                "y": 389
             }
         },
         "Schloss.json#Infotafel_Gnom_skaliert": {
