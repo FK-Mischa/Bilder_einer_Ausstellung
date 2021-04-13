@@ -115,10 +115,10 @@
         },
         "Gnom.json": {
             "scale": 1.218478260869565,
-            "selectedLayer": 7,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 350.4371097234612,
-                "y": 61.55218554861733
+                "x": 303.6574487065121,
+                "y": 60.731489741302426
             }
         },
         "Gnom.json#Infotafel_Gnom_skaliert": {
@@ -173,10 +173,10 @@
         },
         "Schloss.json": {
             "scale": 1,
-            "selectedLayer": 5,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 341,
-                "y": 389
+                "x": 387,
+                "y": 388
             }
         },
         "Schloss.json#Infotafel_Gnom_skaliert": {
@@ -208,10 +208,10 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 3,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 516.8421052631579,
-                "y": 345.26315789473676
+                "x": 520,
+                "y": 344.2105263157895
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
@@ -226,14 +226,15 @@
             "scaleInEditor": 1
         },
         "foyer.json#[Base]BaseChip_pipo": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "lightcastle.json": {
             "scale": 0.95,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 367.89473684210526,
-                "y": 304.2105263157894
+                "x": 367.36842105263156,
+                "y": 304.2105263157895
             }
         },
         "lightcastle.json#Lichtburg_aussen_skalliert": {
@@ -344,10 +345,10 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "foyer.json",
         "vorlagealt.json",
         "vorlage22x10.json",
         "Gnom.json",
-        "foyer.json",
         "Schloss.json",
         "Ballett_Kuecklein.json",
         "lightcastle.json",
