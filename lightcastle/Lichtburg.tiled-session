@@ -306,7 +306,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 494.5584299732383,
-                "y": 336.77074041034797
+                "y": 335.5932203389831
             }
         },
         "vorlagealt.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
@@ -341,15 +341,15 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "vorlagealt.json",
+        "vorlage22x10.json",
         "Gnom.json",
         "foyer.json",
         "Schloss.json",
         "Ballett_Kuecklein.json",
         "lightcastle.json",
         "room1.json",
-        "vorlage22x10.json",
         "room2.json",
-        "vorlagealt.json",
         "vorlageklein.json",
         "Altes_Schloss.json",
         "Neu_Altes_Schloss.json"
