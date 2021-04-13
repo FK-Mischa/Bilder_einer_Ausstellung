@@ -3,14 +3,14 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Schloss.json",
+    "activeFile": "vorlage22x10.json",
     "expandedProjectPaths": [
         "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 0.25,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "Altes Schloss.json": {
@@ -113,6 +113,30 @@
         "Ballett_Kuecklein.json#[Base]BaseChip_pipo": {
             "scaleInDock": 0.75
         },
+        "Gnom.json": {
+            "scale": 1.218478260869565,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 343.0508474576271,
+                "y": 278.21587867975023
+            }
+        },
+        "Gnom.json#Infotafel_Gnom_skaliert": {
+            "scaleInDock": 1
+        },
+        "Gnom.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
+            "scaleInDock": 1
+        },
+        "Gnom.json#Museumsfuehrerin_skaliert": {
+            "scaleInDock": 1
+        },
+        "Gnom.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.25
+        },
+        "Gnom.json#neuSchlossbreite640": {
+            "scaleInDock": 1
+        },
         "Neu_Altes_Schloss.json": {
             "scale": 0.844744318181818,
             "selectedLayer": 5,
@@ -146,11 +170,14 @@
         },
         "Schloss.json": {
             "scale": 1,
-            "selectedLayer": 2,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 270.5,
-                "y": 392
+                "x": 342,
+                "y": 390
             }
+        },
+        "Schloss.json#Infotafel_Gnom_skaliert": {
+            "scaleInDock": 1
         },
         "Schloss.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
             "scaleInDock": 1
@@ -177,11 +204,11 @@
             "scaleInDock": 1
         },
         "foyer.json": {
-            "scale": 0.95927734375,
-            "selectedLayer": 4,
+            "scale": 0.95,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 511.32240659676273,
-                "y": 336.7117988394584
+                "x": 510.52631578947364,
+                "y": 336.8421052631579
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
@@ -196,13 +223,13 @@
             "scaleInEditor": 1
         },
         "foyer.json#[Base]BaseChip_pipo": {
-            "scaleInDock": 0.25
+            "scaleInDock": 1
         },
         "lightcastle.json": {
             "scale": 0.95,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 368.94736842105266,
+                "x": 367.89473684210526,
                 "y": 304.2105263157894
             }
         },
@@ -216,10 +243,10 @@
         },
         "room1.json": {
             "scale": 2.0068749999999995,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 140.76611647461857,
-                "y": 269.573341638119
+                "x": 159.95017128620373,
+                "y": 239.67611336032397
             }
         },
         "room1.json#Ochsenwagen-10Kacheln": {
@@ -261,8 +288,8 @@
             "scale": 1.218478260869565,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 336.48528099910794,
-                "y": 176.03925066904551
+                "x": 335.6645851917931,
+                "y": 288.0642283675291
             }
         },
         "vorlage22x10.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
@@ -303,7 +330,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Schloss",
+    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Gnom",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 20,
@@ -312,24 +339,23 @@
         "Schloss.json",
         "foyer.json",
         "lightcastle.json",
-        "room2.json",
-        "room1.json"
+        "vorlage22x10.json"
     ],
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Ballett_Kuecklein.json",
-        "room1.json",
-        "room2.json",
-        "lightcastle.json",
-        "foyer.json",
         "Schloss.json",
+        "foyer.json",
+        "Ballett_Kuecklein.json",
+        "lightcastle.json",
+        "room1.json",
+        "vorlage22x10.json",
+        "Gnom.json",
+        "room2.json",
         "vorlagealt.json",
         "vorlageklein.json",
-        "vorlage22x10.json",
         "Altes_Schloss.json",
-        "Neu_Altes_Schloss.json",
-        "Neuvorlage.json"
+        "Neu_Altes_Schloss.json"
     ],
     "tileset.embedInMap": true
 }
