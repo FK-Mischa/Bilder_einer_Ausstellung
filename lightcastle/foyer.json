@@ -15,7 +15,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -27,7 +27,7 @@
          "name":"boden1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/room1.json#entryRoom1"
+                 "value":".\/Promenade_1.json#entryPromenade_1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -63,7 +63,7 @@
                  "value":".\/Gnom.json#entryGnom"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -81,7 +81,7 @@
                  "value":".\/Ballett_Kuecklein.json#entryKuecklein"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -99,7 +99,7 @@
                  "value":".\/Schloss.json#entrySchloss"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0

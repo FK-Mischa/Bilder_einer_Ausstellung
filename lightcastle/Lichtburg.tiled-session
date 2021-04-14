@@ -115,7 +115,7 @@
         },
         "Gnom.json": {
             "scale": 1.218478260869565,
-            "selectedLayer": 3,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 384.49598572702956,
                 "y": 137.87689562890276
@@ -171,6 +171,18 @@
         "Neuvorlage.json#[Base]BaseChip_pipo": {
             "scaleInDock": 1
         },
+        "Promenade_1.json": {
+            "scale": 0.8492424242424241,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 515.1650312221233,
+                "y": 354.43354148082074
+            }
+        },
+        "Promenade_1.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Schloss.json": {
             "scale": 1,
             "selectedLayer": 2,
@@ -208,9 +220,9 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 6,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 419.4736842105263,
+                "x": 803.6842105263158,
                 "y": 388.42105263157896
             }
         },
@@ -334,7 +346,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Gnom",
+    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Promenade1",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 20,
@@ -345,18 +357,18 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Promenade_1.json",
+        "Gnom.json",
+        "foyer.json",
         "Schloss.json",
         "lightcastle.json",
-        "foyer.json",
         "vorlagealt.json",
         "vorlage22x10.json",
-        "Gnom.json",
         "Ballett_Kuecklein.json",
         "room1.json",
         "room2.json",
         "vorlageklein.json",
-        "Altes_Schloss.json",
-        "Neu_Altes_Schloss.json"
+        "Altes_Schloss.json"
     ],
     "tileset.embedInMap": true
 }
