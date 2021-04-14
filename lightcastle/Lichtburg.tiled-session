@@ -173,11 +173,17 @@
         },
         "Promenade_1.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 2,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 515.1650312221233,
                 "y": 354.43354148082074
             }
+        },
+        "Promenade_1.json#Infotafel_Promenade_1_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade_1.json#Museumsfuehrerin_skaliert": {
+            "scaleInDock": 1
         },
         "Promenade_1.json#[Base]BaseChip_pipo": {
             "scaleInDock": 1,
