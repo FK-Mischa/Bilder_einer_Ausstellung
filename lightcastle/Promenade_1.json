@@ -42,7 +42,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/music\/Klavierfassung_Promenade_1.wav"
+                 "value":".\/music\/Promenade Klavierfassung.wav"
                 }],
          "type":"tilelayer",
          "visible":true,
