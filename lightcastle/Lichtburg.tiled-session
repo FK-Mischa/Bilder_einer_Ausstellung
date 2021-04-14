@@ -115,7 +115,7 @@
         },
         "Gnom.json": {
             "scale": 1.218478260869565,
-            "selectedLayer": 1,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 384.49598572702956,
                 "y": 137.87689562890276
@@ -173,13 +173,16 @@
         },
         "Promenade_1.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 515.1650312221233,
-                "y": 354.43354148082074
+                "y": 353.2560214094559
             }
         },
         "Promenade_1.json#Infotafel_Promenade_1_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade_1.json#Modest_Músorgski,_por_Iliá_Repin_skaliert": {
             "scaleInDock": 1
         },
         "Promenade_1.json#Museumsfuehrerin_skaliert": {

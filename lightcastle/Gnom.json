@@ -33,7 +33,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":22,
          "x":0,
          "y":0
@@ -84,7 +84,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/music\/Gnom_Ravel.wav"
+                 "value":".\/music\/Gnom Klavierfassung.wav"
                 }],
          "type":"tilelayer",
          "visible":true,
