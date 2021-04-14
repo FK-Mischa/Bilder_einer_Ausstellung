@@ -194,13 +194,19 @@
         },
         "Promenade_2.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 6,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 512.2212310437111,
-                "y": 336.77074041034797
+                "x": 516.3425512934881,
+                "y": 461.5878679750224
             }
         },
+        "Promenade_2.json#Infotafel Raum Promenade 2 skaliert": {
+            "scaleInDock": 1
+        },
         "Promenade_2.json#Infotafel_Promenade_1_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade_2.json#Maurice_Ravel_skaliert": {
             "scaleInDock": 1
         },
         "Promenade_2.json#Modest_Músorgski,_por_Iliá_Repin_skaliert": {
