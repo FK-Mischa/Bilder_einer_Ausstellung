@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "foyer.json",
+    "activeFile": "Promenade_2.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -117,8 +117,8 @@
             "scale": 1.218478260869565,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 384.49598572702956,
-                "y": 137.87689562890276
+                "x": 352.07850133809103,
+                "y": 160.03568242640506
             }
         },
         "Gnom.json#Infotafel_Gnom_skaliert": {
@@ -175,8 +175,8 @@
             "scale": 0.8492424242424241,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 515.1650312221233,
-                "y": 353.2560214094559
+                "x": 512.2212310437111,
+                "y": 336.77074041034797
             }
         },
         "Promenade_1.json#Infotafel_Promenade_1_skaliert": {
@@ -191,6 +191,26 @@
         "Promenade_1.json#[Base]BaseChip_pipo": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "Promenade_2.json": {
+            "scale": 0.8492424242424241,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 512.2212310437111,
+                "y": 336.77074041034797
+            }
+        },
+        "Promenade_2.json#Infotafel_Promenade_1_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade_2.json#Modest_Músorgski,_por_Iliá_Repin_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade_2.json#Museumsfuehrerin_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade_2.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1
         },
         "Schloss.json": {
             "scale": 1,
@@ -231,8 +251,8 @@
             "scale": 0.95,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 803.6842105263158,
-                "y": 388.42105263157896
+                "x": 511.57894736842104,
+                "y": 336.84210526315786
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
@@ -355,20 +375,23 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Promenade1",
+    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Promenade2",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 20,
     "openFiles": [
         "Gnom.json",
-        "foyer.json"
+        "foyer.json",
+        "Promenade_2.json",
+        "Promenade_1.json"
     ],
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Promenade_1.json",
         "Gnom.json",
         "foyer.json",
+        "Promenade_1.json",
+        "Promenade_2.json",
         "Schloss.json",
         "lightcastle.json",
         "vorlagealt.json",
@@ -376,8 +399,7 @@
         "Ballett_Kuecklein.json",
         "room1.json",
         "room2.json",
-        "vorlageklein.json",
-        "Altes_Schloss.json"
+        "vorlageklein.json"
     ],
     "tileset.embedInMap": true
 }
