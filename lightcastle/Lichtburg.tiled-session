@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "lightcastle.json",
+    "activeFile": "Ballett_Kuecklein.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -88,13 +88,16 @@
         },
         "Ballett_Kuecklein.json": {
             "scale": 0.9008300781249999,
-            "selectedLayer": 2,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 508.975012195783,
                 "y": 285.2924277738631
             }
         },
         "Ballett_Kuecklein.json#Infotafel": {
+            "scaleInDock": 1
+        },
+        "Ballett_Kuecklein.json#Infotafel_Ballett_skalliert": {
             "scaleInDock": 1
         },
         "Ballett_Kuecklein.json#Kostuementwurf_Hartmann_skaliert": {
@@ -116,7 +119,7 @@
         },
         "Gnom.json": {
             "scale": 1.218478260869565,
-            "selectedLayer": 2,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 352.4888492417485,
                 "y": 160.8563782337199
@@ -195,7 +198,7 @@
         },
         "Promenade_2.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 5,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 517.5200713648528,
                 "y": 461.5878679750224
@@ -223,8 +226,8 @@
             "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 387.5,
-                "y": 388
+                "x": 352,
+                "y": 160
             }
         },
         "Schloss.json#Infotafel_Gnom_skaliert": {
@@ -256,10 +259,10 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 5,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 500.52631578947364,
-                "y": 472.6315789473684
+                "x": 544.7368421052631,
+                "y": 390.5263157894737
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
@@ -282,8 +285,8 @@
             "scale": 0.95,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 418.4210526315789,
-                "y": 308.42105263157896
+                "x": 288.42105263157896,
+                "y": 272.6315789473684
             }
         },
         "lightcastle.json#Lichtburg_aussen_skalliert": {
@@ -388,21 +391,21 @@
     "map.lastUsedFormat": "json",
     "map.width": 20,
     "openFiles": [
-        "Gnom.json",
         "foyer.json",
+        "lightcastle.json",
         "Promenade_2.json",
-        "Promenade_1.json",
-        "lightcastle.json"
+        "Schloss.json",
+        "Ballett_Kuecklein.json"
     ],
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Promenade_2.json",
-        "Gnom.json",
+        "foyer.json",
         "lightcastle.json",
+        "Promenade_2.json",
         "Schloss.json",
         "Ballett_Kuecklein.json",
-        "foyer.json",
+        "Gnom.json",
         "Promenade_1.json",
         "vorlagealt.json",
         "vorlage22x10.json",
