@@ -88,10 +88,10 @@
         },
         "Ballett_Kuecklein.json": {
             "scale": 0.9008300781249999,
-            "selectedLayer": 5,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 508.975012195783,
-                "y": 285.2924277738631
+                "x": 499.53927042116106,
+                "y": 194.26527183045152
             }
         },
         "Ballett_Kuecklein.json#Infotafel": {
@@ -119,10 +119,10 @@
         },
         "Gnom.json": {
             "scale": 1.218478260869565,
-            "selectedLayer": 6,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 329.09901873327397,
-                "y": 198.6083853702052
+                "x": 328.278322925959,
+                "y": 197.7876895628903
             }
         },
         "Gnom.json#Infotafel_Gnom_skaliert": {
@@ -226,8 +226,8 @@
             "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 352,
-                "y": 160
+                "x": 388,
+                "y": 388
             }
         },
         "Schloss.json#Infotafel_Gnom_skaliert": {
@@ -259,10 +259,10 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 3,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 534.7368421052631,
-                "y": 304.2105263157895
+                "x": 451.57894736842104,
+                "y": 340
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
@@ -285,8 +285,8 @@
             "scale": 0.95,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 288.42105263157896,
-                "y": 272.6315789473684
+                "x": 418.9473684210526,
+                "y": 308.4210526315789
             }
         },
         "lightcastle.json#Lichtburg_aussen_skalliert": {

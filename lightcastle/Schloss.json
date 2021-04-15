@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Ballett_Kuecklein.json#entryBallett_Kuecklein"
+                 "value":".\/Ballett_Kuecklein.json#entryKuecklein"
                 }],
          "type":"tilelayer",
          "visible":true,
