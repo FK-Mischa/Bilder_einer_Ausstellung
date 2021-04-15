@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/foyer.json#foyer"
+                 "value":".\/Promenade_2.json#entryPromenade_2"
                 }],
          "type":"tilelayer",
          "visible":true,

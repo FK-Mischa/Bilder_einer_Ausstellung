@@ -30,7 +30,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/music\/Schloss_Ravel.wav"
+                 "value":".\/music\/Das_alte_Schloss_Ravel_gek\u00fcrzt.wav"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/room1.json#entryroom1"
+                 "value":".\/Ballett_Kuecklein.json#entryBallett_Kuecklein"
                 }],
          "type":"tilelayer",
          "visible":true,

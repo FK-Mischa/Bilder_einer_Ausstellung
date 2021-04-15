@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Promenade_2.json",
+    "activeFile": "lightcastle.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -88,10 +88,10 @@
         },
         "Ballett_Kuecklein.json": {
             "scale": 0.9008300781249999,
-            "selectedLayer": 5,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 511.19518673098815,
-                "y": 287.51260230906826
+                "x": 508.975012195783,
+                "y": 285.2924277738631
             }
         },
         "Ballett_Kuecklein.json#Infotafel": {
@@ -105,7 +105,8 @@
             "scaleInEditor": 1
         },
         "Ballett_Kuecklein.json#Lichtburg_aussen_skalliert": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Ballett_Kuecklein.json#Museumsfuehrerin_skaliert": {
             "scaleInDock": 1
@@ -115,10 +116,10 @@
         },
         "Gnom.json": {
             "scale": 1.218478260869565,
-            "selectedLayer": 4,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 352.07850133809103,
-                "y": 160.03568242640506
+                "x": 352.4888492417485,
+                "y": 160.8563782337199
             }
         },
         "Gnom.json#Infotafel_Gnom_skaliert": {
@@ -173,9 +174,9 @@
         },
         "Promenade_1.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 6,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 512.2212310437111,
+                "x": 512.8099910793935,
                 "y": 336.77074041034797
             }
         },
@@ -194,9 +195,9 @@
         },
         "Promenade_2.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 5,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 516.3425512934881,
+                "x": 517.5200713648528,
                 "y": 461.5878679750224
             }
         },
@@ -220,9 +221,9 @@
         },
         "Schloss.json": {
             "scale": 1,
-            "selectedLayer": 2,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 387,
+                "x": 387.5,
                 "y": 388
             }
         },
@@ -255,10 +256,10 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 2,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 511.57894736842104,
-                "y": 336.84210526315786
+                "x": 503.6842105263157,
+                "y": 476.8421052631578
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
@@ -266,7 +267,8 @@
             "scaleInEditor": 0.25
         },
         "foyer.json#Lichtburg_Foyer-09-08-03_6356-1024x681": {
-            "scaleInDock": 0.25
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
         },
         "foyer.json#Lichtburg_Foyer-skalliert": {
             "scaleInDock": 0.25,
@@ -278,9 +280,9 @@
         },
         "lightcastle.json": {
             "scale": 0.95,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 366.3157894736842,
+                "x": 366.84210526315786,
                 "y": 303.1578947368421
             }
         },
@@ -381,7 +383,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Promenade2",
+    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Lichtburgeingang",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 20,
@@ -389,20 +391,21 @@
         "Gnom.json",
         "foyer.json",
         "Promenade_2.json",
-        "Promenade_1.json"
+        "Promenade_1.json",
+        "lightcastle.json"
     ],
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "Gnom.json",
-        "foyer.json",
-        "Promenade_1.json",
         "Promenade_2.json",
         "Schloss.json",
+        "Ballett_Kuecklein.json",
+        "foyer.json",
+        "Promenade_1.json",
         "lightcastle.json",
         "vorlagealt.json",
         "vorlage22x10.json",
-        "Ballett_Kuecklein.json",
         "room1.json",
         "room2.json",
         "vorlageklein.json"

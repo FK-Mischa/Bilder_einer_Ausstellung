@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/room2.json#entryRoom2"
+                 "value":".\/foyer.json#entryfoyer"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -5348,8 +5348,8 @@
         {
          "columns":32,
          "firstgid":1641,
-         "image":"tiles\/Lichtburg_aussen_skalliert.png",
-         "imageheight":576,
+         "image":"tiles\/Ballett_der_Kuecklein\/Lichtburg_Ballett_Stuhlreihen_skaliert.jpg",
+         "imageheight":577,
          "imagewidth":1024,
          "margin":0,
          "name":"Lichtburg_aussen_skalliert",
