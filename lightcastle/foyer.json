@@ -15,7 +15,7 @@
                  "value":".\/lightcastle.json#entrylightcastle"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -33,7 +33,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -51,7 +51,7 @@
                  "value":".\/Promenade_1.json#entryPromenade_1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
