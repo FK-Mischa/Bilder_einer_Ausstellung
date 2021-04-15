@@ -10,7 +10,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.25,
             "scaleInEditor": 1
         },
         "Altes Schloss.json": {
@@ -195,7 +195,7 @@
         },
         "Promenade_2.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 3,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 517.5200713648528,
                 "y": 461.5878679750224
@@ -256,10 +256,10 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 0,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 503.6842105263157,
-                "y": 476.8421052631578
+                "x": 500.52631578947364,
+                "y": 472.6315789473684
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
@@ -280,18 +280,18 @@
         },
         "lightcastle.json": {
             "scale": 0.95,
-            "selectedLayer": 3,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 366.84210526315786,
-                "y": 448.42105263157896
+                "x": 418.4210526315789,
+                "y": 308.42105263157896
             }
         },
         "lightcastle.json#Lichtburg_aussen_skalliert": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 0.25,
             "scaleInEditor": 1
         },
         "lightcastle.json#[Base]BaseChip_pipo": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.25,
             "scaleInEditor": 1
         },
         "room1.json": {
@@ -397,13 +397,13 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Gnom.json",
         "Promenade_2.json",
+        "Gnom.json",
+        "lightcastle.json",
         "Schloss.json",
         "Ballett_Kuecklein.json",
         "foyer.json",
         "Promenade_1.json",
-        "lightcastle.json",
         "vorlagealt.json",
         "vorlage22x10.json",
         "room1.json",
