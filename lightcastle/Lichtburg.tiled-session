@@ -119,10 +119,10 @@
         },
         "Gnom.json": {
             "scale": 1.218478260869565,
-            "selectedLayer": 1,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 345.51293487957184,
-                "y": 93.55932203389833
+                "x": 329.09901873327397,
+                "y": 198.6083853702052
             }
         },
         "Gnom.json#Infotafel_Gnom_skaliert": {
@@ -201,7 +201,7 @@
             "selectedLayer": 3,
             "viewCenter": {
                 "x": 508.6886708296164,
-                "y": 242.56913470115973
+                "y": 241.39161462979487
             }
         },
         "Promenade_2.json#Infotafel Raum Promenade 2 skaliert": {
@@ -261,8 +261,8 @@
             "scale": 0.95,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 544.7368421052631,
-                "y": 390.5263157894737
+                "x": 534.7368421052631,
+                "y": 304.2105263157895
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
