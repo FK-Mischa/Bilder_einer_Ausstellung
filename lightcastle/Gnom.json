@@ -15,7 +15,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":22,
          "x":0,
          "y":0
@@ -51,7 +51,7 @@
                  "value":false
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":22,
          "x":0,
          "y":0
@@ -69,7 +69,7 @@
                  "value":".\/music\/Gnom Klavierfassung.wav"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":22,
          "x":0,
          "y":0
@@ -87,7 +87,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":22,
          "x":0,
          "y":0
@@ -99,7 +99,7 @@
          "name":"Bildboden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":22,
          "x":0,
          "y":0
@@ -111,7 +111,7 @@
          "name":"Bodenauflage",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":22,
          "x":0,
          "y":0
@@ -123,7 +123,7 @@
          "name":"Paedagogik",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":22,
          "x":0,
          "y":0
