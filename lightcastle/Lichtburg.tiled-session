@@ -10,7 +10,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 0.25,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "Altes Schloss.json": {
@@ -383,7 +383,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Lichtburgeingang",
+    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Ballett_der_Kuecklein",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 20,
