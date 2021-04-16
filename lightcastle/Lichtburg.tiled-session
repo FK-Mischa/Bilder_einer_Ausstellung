@@ -119,9 +119,9 @@
         },
         "Gnom.json": {
             "scale": 1.218478260869565,
-            "selectedLayer": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 335.2542372881357,
+                "x": 336.07493309545055,
                 "y": 269.1882247992864
             }
         },
@@ -252,7 +252,7 @@
             "scale": 0.8492424242424241,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 437.4487065120429,
+                "x": 438.62622658340774,
                 "y": 531.0615521855487
             }
         },
@@ -308,7 +308,7 @@
             "scale": 0.95,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 451.05263157894734,
+                "x": 504.7368421052632,
                 "y": 338.9473684210526
             }
         },
@@ -448,11 +448,11 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Gnom.json",
         "Promenade_Ravel.json",
         "Schloss.json",
         "Ballett_Kuecklein.json",
         "Promenade_neu.json",
-        "Gnom.json",
         "Promenade_1.json",
         "Promenade_2.json",
         "lightcastle.json",
