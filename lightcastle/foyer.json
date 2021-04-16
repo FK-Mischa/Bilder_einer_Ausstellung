@@ -48,10 +48,10 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Promenade_1.json#entryPromenade_1"
+                 "value":".\/Promenade_neu.json#entryPromenade_neu"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
