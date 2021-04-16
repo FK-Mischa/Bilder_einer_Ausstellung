@@ -66,7 +66,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/music\/Gnom Klavierfassung.wav"
+                 "value":".\/music\/Gnom_Vitovsky.wav"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -30,7 +30,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/music\/Balett der K\u00fcchlein KF frei.wav"
+                 "value":".\/music\/Ballett_Vytovsky.wav"
                 }],
          "type":"tilelayer",
          "visible":true,
