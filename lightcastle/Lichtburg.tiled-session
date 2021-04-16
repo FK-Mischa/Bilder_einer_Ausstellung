@@ -252,8 +252,8 @@
             "scale": 0.8492424242424241,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 438.62622658340774,
-                "y": 531.0615521855487
+                "x": 429.79482604817133,
+                "y": 427.4397859054417
             }
         },
         "Promenade_neu.json#Infotafel_Promenade_1_skaliert": {
@@ -448,18 +448,18 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "room1.json",
+        "foyer.json",
+        "Promenade_neu.json",
         "Gnom.json",
         "Promenade_Ravel.json",
         "Schloss.json",
         "Ballett_Kuecklein.json",
-        "Promenade_neu.json",
         "Promenade_1.json",
         "Promenade_2.json",
         "lightcastle.json",
-        "foyer.json",
         "vorlagealt.json",
-        "vorlage22x10.json",
-        "room1.json"
+        "vorlage22x10.json"
     ],
     "tileset.embedInMap": true
 }
