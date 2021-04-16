@@ -3,9 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Gnom.json",
+    "activeFile": "foyer.json",
     "expandedProjectPaths": [
-        "."
+        ".",
+        "Pipoya RPG Tileset 32x32"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -349,7 +350,7 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 2,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 485.2631578947368,
                 "y": 336.84210526315786
@@ -481,28 +482,23 @@
     "map.lastUsedFormat": "json",
     "map.width": 20,
     "openFiles": [
-        "foyer.json",
-        "Promenade_2.json",
-        "Schloss.json",
-        "Ballett_Kuecklein.json",
-        "Gnom.json",
-        "lightcastle.json"
+        "foyer.json"
     ],
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "foyer.json",
+        "Gnomneu.json",
+        "Promenade_neu.json",
         "Promenade.json",
         "Gnom_neu.json",
-        "Promenade_neu.json",
         "Gnom.json",
         "Promenade_Ravel.json",
         "Schloss.json",
         "room1.json",
         "Ballett_Kuecklein.json",
         "Promenade_1.json",
-        "Promenade_2.json",
-        "lightcastle.json"
+        "Promenade_2.json"
     ],
     "tileset.embedInMap": true
 }
