@@ -119,10 +119,10 @@
         },
         "Gnom.json": {
             "scale": 1.218478260869565,
-            "selectedLayer": 5,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 336.07493309545055,
-                "y": 269.1882247992864
+                "x": 360.28545941124,
+                "y": 182.19446922390722
             }
         },
         "Gnom.json#Infotafel_Gnom_skaliert": {
@@ -143,6 +143,18 @@
         },
         "Gnom.json#neuSchlossbreite640": {
             "scaleInDock": 1
+        },
+        "Gnom_neu.json": {
+            "scale": 0.8492424242424241,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 368.56378233719903,
+                "y": 1628.5102586975918
+            }
+        },
+        "Gnom_neu.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Neu_Altes_Schloss.json": {
             "scale": 0.844744318181818,
@@ -226,8 +238,8 @@
             "scale": 0.8492424242424241,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 509.27743086529887,
-                "y": 480.42818911686004
+                "x": 1743.3184656556648,
+                "y": -18.84032114183765
             }
         },
         "Promenade_Ravel.json#InfotafelRavelskaliert": {
@@ -252,7 +264,7 @@
             "scale": 0.8492424242424241,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 429.79482604817133,
+                "x": 430.38358608385374,
                 "y": 427.4397859054417
             }
         },
@@ -273,7 +285,7 @@
             "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 352,
+                "x": 352.5,
                 "y": 160
             }
         },
@@ -306,10 +318,10 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 5,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 504.7368421052632,
-                "y": 338.9473684210526
+                "x": 454.2105263157894,
+                "y": 337.8947368421052
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
@@ -448,12 +460,12 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "room1.json",
-        "foyer.json",
         "Promenade_neu.json",
-        "Gnom.json",
         "Promenade_Ravel.json",
         "Schloss.json",
+        "Gnom.json",
+        "room1.json",
+        "foyer.json",
         "Ballett_Kuecklein.json",
         "Promenade_1.json",
         "Promenade_2.json",
