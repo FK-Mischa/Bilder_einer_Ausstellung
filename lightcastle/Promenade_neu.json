@@ -60,7 +60,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/music\/PromenadeVitovsky.wav"
+                 "value":".\/music\/Promenade.wav"
                 }],
          "type":"tilelayer",
          "visible":true,
