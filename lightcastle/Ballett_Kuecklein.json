@@ -30,7 +30,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/music\/Ballett_Vytovsky.wav"
+                 "value":".\/music\/Ballett_Vitovsky.wav"
                 }],
          "type":"tilelayer",
          "visible":true,
