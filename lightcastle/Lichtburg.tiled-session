@@ -158,15 +158,16 @@
             "scaleInEditor": 1
         },
         "Gnomneu.json": {
-            "scale": 0.288644801980198,
+            "scale": 0.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1569.4029370779292,
-                "y": 983.9082431128738
+                "x": 1498,
+                "y": 976
             }
         },
         "Gnomneu.json#[Base]BaseChip_pipo": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Neu_Altes_Schloss.json": {
             "scale": 0.844744318181818,
@@ -294,7 +295,7 @@
         },
         "Promenade_neu.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 535.771632471008,
                 "y": 151.900089206066

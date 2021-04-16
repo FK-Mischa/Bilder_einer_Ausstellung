@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Gnomneu.json#entryGnomneu"
+                 "value":".\/Gnom_neu.json#entryGnom_neu"
                 }],
          "type":"tilelayer",
          "visible":true,
