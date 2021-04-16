@@ -147,7 +147,7 @@
         },
         "Gnom_neu.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 367.38626226583415,
                 "y": 1627.3327386262267
@@ -269,10 +269,10 @@
         },
         "Promenade_Ravel.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 2,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1743.3184656556648,
-                "y": -18.84032114183765
+                "x": 973.8090990187335,
+                "y": 100.08920606601248
             }
         },
         "Promenade_Ravel.json#InfotafelRavelskaliert": {
@@ -295,7 +295,7 @@
         },
         "Promenade_neu.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 2,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 535.771632471008,
                 "y": 151.900089206066
@@ -351,7 +351,7 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 485.2631578947368,
                 "y": 336.84210526315786
@@ -488,8 +488,8 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "foyer.json",
         "Gnomneu.json",
+        "foyer.json",
         "Promenade_neu.json",
         "Promenade.json",
         "Gnom_neu.json",
