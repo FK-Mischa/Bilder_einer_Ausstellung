@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Promenade_2.json#entryPromenade_2"
+                 "value":".\/Promenade_Ravel.json#entryPromenade_Ravel"
                 }],
          "type":"tilelayer",
          "visible":true,

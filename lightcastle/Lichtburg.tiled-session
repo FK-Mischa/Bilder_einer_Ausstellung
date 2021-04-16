@@ -10,7 +10,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 0.25,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "Altes Schloss.json": {
@@ -198,10 +198,10 @@
         },
         "Promenade_2.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 3,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 512.2212310437111,
-                "y": 336.77074041034797
+                "x": 509.27743086529887,
+                "y": 241.39161462979484
             }
         },
         "Promenade_2.json#Infotafel Raum Promenade 2 skaliert": {
@@ -222,13 +222,48 @@
         "Promenade_2.json#[Base]BaseChip_pipo": {
             "scaleInDock": 1
         },
+        "Promenade_Ravel.json": {
+            "scale": 0.8492424242424241,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 509.27743086529887,
+                "y": 480.42818911686004
+            }
+        },
+        "Promenade_Ravel.json#InfotafelRavelskaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade_Ravel.json#Infotafel_Promenade_1_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade_Ravel.json#Maurice_Ravel_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade_Ravel.json#Modest_Músorgski,_por_Iliá_Repin_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade_Ravel.json#Museumsfuehrerin_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade_Ravel.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1
+        },
         "Promenade_neu.json": {
             "scale": 0.8492424242424241,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 436.2711864406781,
-                "y": 532.2390722569136
+                "x": 437.4487065120429,
+                "y": 531.0615521855487
             }
+        },
+        "Promenade_neu.json#Infotafel_Promenade_1_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade_neu.json#Modest_Músorgski,_por_Iliá_Repin_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade_neu.json#Museumsfuehrerin_skaliert": {
+            "scaleInDock": 1
         },
         "Promenade_neu.json#[Base]BaseChip_pipo": {
             "scaleInDock": 1,
@@ -271,7 +306,7 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 2,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 451.05263157894734,
                 "y": 338.9473684210526
@@ -398,7 +433,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Ballett_der_Kuecklein",
+    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Promenade_Ravel",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 20,
@@ -413,13 +448,13 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Promenade_1.json",
+        "Promenade_2.json",
         "lightcastle.json",
         "Gnom.json",
         "Ballett_Kuecklein.json",
         "foyer.json",
-        "Promenade_2.json",
         "Schloss.json",
-        "Promenade_1.json",
         "vorlagealt.json",
         "vorlage22x10.json",
         "room1.json",
