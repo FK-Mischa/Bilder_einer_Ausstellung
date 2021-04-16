@@ -119,9 +119,9 @@
         },
         "Gnom.json": {
             "scale": 1.218478260869565,
-            "selectedLayer": 3,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 334.4335414808208,
+                "x": 335.2542372881357,
                 "y": 269.1882247992864
             }
         },
@@ -306,7 +306,7 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 4,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 451.05263157894734,
                 "y": 338.9473684210526
@@ -448,18 +448,18 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Promenade_Ravel.json",
+        "Schloss.json",
+        "Ballett_Kuecklein.json",
+        "Promenade_neu.json",
+        "Gnom.json",
         "Promenade_1.json",
         "Promenade_2.json",
         "lightcastle.json",
-        "Gnom.json",
-        "Ballett_Kuecklein.json",
         "foyer.json",
-        "Schloss.json",
         "vorlagealt.json",
         "vorlage22x10.json",
-        "room1.json",
-        "room2.json",
-        "vorlageklein.json"
+        "room1.json"
     ],
     "tileset.embedInMap": true
 }
