@@ -120,10 +120,10 @@
         },
         "Gnom.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 3,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 477.484388938448,
-                "y": 359.14362176628015
+                "x": 487.49330954504916,
+                "y": 357.9661016949153
             }
         },
         "Gnom.json#Infotafel_Gnom_skaliert": {
@@ -271,8 +271,8 @@
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 610.6666666666667,
-                "y": 513.3333333333334
+                "x": 663.9999999999999,
+                "y": 512
             }
         },
         "Promenade_Ravel.json#InfotafelRavelskaliert": {
