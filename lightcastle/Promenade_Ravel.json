@@ -30,7 +30,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/music\/PromenadeRavel.wav"
+                 "value":".\/music\/Promenade_Ravel.wav"
                 }],
          "type":"tilelayer",
          "visible":false,
