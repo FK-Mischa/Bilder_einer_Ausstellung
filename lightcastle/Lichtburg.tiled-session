@@ -3,10 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "foyer.json",
+    "activeFile": "Promenade_neu.json",
     "expandedProjectPaths": [
-        ".",
-        "Pipoya RPG Tileset 32x32"
+        "Pipoya RPG Tileset 32x32",
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -149,8 +149,8 @@
             "scale": 0.8492424242424241,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 367.38626226583415,
-                "y": 1627.3327386262267
+                "x": 1583.7644959857273,
+                "y": 959.6788581623553
             }
         },
         "Gnom_neu.json#[Base]BaseChip_pipo": {
@@ -271,8 +271,8 @@
             "scale": 0.8492424242424241,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 973.8090990187335,
-                "y": 100.08920606601248
+                "x": 814.8438893844783,
+                "y": 479.2506690454952
             }
         },
         "Promenade_Ravel.json#InfotafelRavelskaliert": {
@@ -295,10 +295,10 @@
         },
         "Promenade_neu.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 3,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 535.771632471008,
-                "y": 151.900089206066
+                "x": 544.6030330062446,
+                "y": 486.3157894736843
             }
         },
         "Promenade_neu.json#Infotafel_Promenade_1_skaliert": {
@@ -311,12 +311,12 @@
             "scaleInDock": 1
         },
         "Promenade_neu.json#[Base]BaseChip_pipo": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "Schloss.json": {
             "scale": 1,
-            "selectedLayer": 4,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 352.5,
                 "y": 160
@@ -353,8 +353,8 @@
             "scale": 0.95,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 485.2631578947368,
-                "y": 336.84210526315786
+                "x": 512.1052631578947,
+                "y": 335.7894736842105
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
@@ -483,18 +483,21 @@
     "map.lastUsedFormat": "json",
     "map.width": 20,
     "openFiles": [
-        "foyer.json"
+        "foyer.json",
+        "Promenade_neu.json",
+        "Promenade_Ravel.json",
+        "Gnom_neu.json"
     ],
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Gnomneu.json",
         "foyer.json",
-        "Promenade_neu.json",
-        "Promenade.json",
         "Gnom_neu.json",
-        "Gnom.json",
         "Promenade_Ravel.json",
+        "Promenade_neu.json",
+        "Gnomneu.json",
+        "Promenade.json",
+        "Gnom.json",
         "Schloss.json",
         "room1.json",
         "Ballett_Kuecklein.json",
