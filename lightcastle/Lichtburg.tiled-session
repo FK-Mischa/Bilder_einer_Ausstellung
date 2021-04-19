@@ -149,8 +149,8 @@
             "scale": 0.8492424242424241,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 207.8322925958966,
-                "y": 1649.705619982159
+                "x": 294.3800178412132,
+                "y": 1862.8367528991976
             }
         },
         "Gnom_neu.json#[Base]BaseChip_pipo": {
@@ -295,9 +295,9 @@
         },
         "Promenade_neu.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 4,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 523.4076717216772,
+                "x": 523.9964317573597,
                 "y": 485.13826940231945
             }
         },
@@ -318,8 +318,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 352.5,
-                "y": 160
+                "x": 344,
+                "y": 71
             }
         },
         "Schloss.json#Infotafel_Gnom_skaliert": {
@@ -351,10 +351,10 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 512.1052631578947,
-                "y": 335.7894736842105
+                "x": 503.15789473684214,
+                "y": 242.1052631578947
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
@@ -491,14 +491,14 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Promenade_neu.json",
+        "Schloss.json",
         "Promenade_Ravel.json",
+        "Gnom.json",
+        "Promenade.json",
         "foyer.json",
         "Gnom_neu.json",
+        "Promenade_neu.json",
         "Gnomneu.json",
-        "Promenade.json",
-        "Gnom.json",
-        "Schloss.json",
         "room1.json",
         "Ballett_Kuecklein.json",
         "Promenade_1.json",
