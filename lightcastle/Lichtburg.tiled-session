@@ -89,9 +89,9 @@
         },
         "Ballett_Kuecklein.json": {
             "scale": 0.9008300781249999,
-            "selectedLayer": 2,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 508.4199685619816,
+                "x": 508.4199685619817,
                 "y": 291.9529513794786
             }
         },
@@ -99,6 +99,9 @@
             "scaleInDock": 1
         },
         "Ballett_Kuecklein.json#Infotafel_Ballett_skalliert": {
+            "scaleInDock": 1
+        },
+        "Ballett_Kuecklein.json#Infotafelskaliert": {
             "scaleInDock": 1
         },
         "Ballett_Kuecklein.json#Kostuementwurf_Hartmann_skaliert": {
@@ -384,7 +387,7 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 3,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 453.6842105263158,
                 "y": 241.05263157894737
@@ -511,7 +514,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Blauer_Salon",
+    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Promenade",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 20,
