@@ -122,8 +122,8 @@
             "scale": 0.8492424242424241,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 342.65834076717226,
-                "y": 360.32114183764503
+                "x": 477.484388938448,
+                "y": 359.14362176628015
             }
         },
         "Gnom.json#Infotafel_Gnom_skaliert": {
@@ -204,8 +204,8 @@
             "scale": 0.5500589622641509,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 828.093043198628,
-                "y": 721.7408082323936
+                "x": 827.1840497373781,
+                "y": 719.922821309894
             }
         },
         "Promenade.json#Infotafel_Promenade_1_skaliert": {
@@ -268,11 +268,11 @@
             "scaleInDock": 1
         },
         "Promenade_Ravel.json": {
-            "scale": 0.8492424242424241,
+            "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 300.85637823371997,
-                "y": 187.22569134701166
+                "x": 610.6666666666667,
+                "y": 513.3333333333334
             }
         },
         "Promenade_Ravel.json#InfotafelRavelskaliert": {
