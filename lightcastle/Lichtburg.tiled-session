@@ -478,7 +478,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Promenade_Ravel",
+    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Promenade",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 20,
@@ -491,8 +491,8 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Ballett_Kuecklein.json",
         "Promenade.json",
+        "Ballett_Kuecklein.json",
         "Schloss.json",
         "Promenade_Ravel.json",
         "Gnom.json",
