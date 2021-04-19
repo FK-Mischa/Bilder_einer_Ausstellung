@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Promenade_neu.json",
+    "activeFile": "",
     "expandedProjectPaths": [
         "Pipoya RPG Tileset 32x32",
         "."
@@ -202,7 +202,7 @@
         },
         "Promenade.json": {
             "scale": 0.5500589622641509,
-            "selectedLayer": 7,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 816.2761282023798,
                 "y": 481.7665344624291
@@ -269,10 +269,10 @@
         },
         "Promenade_Ravel.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 6,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 495.14719000892075,
-                "y": 579.3398751115077
+                "x": 300.26761819803744,
+                "y": 187.22569134701163
             }
         },
         "Promenade_Ravel.json#InfotafelRavelskaliert": {
@@ -288,7 +288,8 @@
             "scaleInDock": 1
         },
         "Promenade_Ravel.json#Museumsfuehrerin_skaliert": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Promenade_Ravel.json#[Base]BaseChip_pipo": {
             "scaleInDock": 1
@@ -351,7 +352,7 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 2,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 503.15789473684214,
                 "y": 242.1052631578947
@@ -478,23 +479,19 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Promenade",
+    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Promenade_Ravel",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 20,
     "openFiles": [
-        "foyer.json",
-        "Promenade_neu.json",
-        "Promenade_Ravel.json",
-        "Gnom_neu.json"
     ],
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Promenade_Ravel.json",
         "Promenade.json",
         "Ballett_Kuecklein.json",
         "Schloss.json",
-        "Promenade_Ravel.json",
         "Gnom.json",
         "foyer.json",
         "Gnom_neu.json",

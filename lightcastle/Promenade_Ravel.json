@@ -154,7 +154,7 @@
         {
          "columns":2,
          "firstgid":1065,
-         "image":"tiles\/Promenade_neu\/Museumsfuehrerin_skaliert.jpg",
+         "image":"tiles\/Promenade_Ravel\/Museumsfuehrerin_skaliert.jpg",
          "imageheight":128,
          "imagewidth":79,
          "margin":0,
@@ -187,6 +187,19 @@
          "name":"Maurice_Ravel_skaliert",
          "spacing":0,
          "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":2,
+         "firstgid":1092,
+         "image":"tiles\/Promenade_Ravel\/Museumsfuehrerin_skaliert.jpg",
+         "imageheight":128,
+         "imagewidth":79,
+         "margin":0,
+         "name":"Museumsfuehrerin_skaliert",
+         "spacing":0,
+         "tilecount":8,
          "tileheight":32,
          "tilewidth":32
         }],
