@@ -120,9 +120,9 @@
         },
         "Gnom.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 487.49330954504916,
+                "x": 538.1266726137378,
                 "y": 357.9661016949153
             }
         },
@@ -267,11 +267,28 @@
         "Promenade_2.json#[Base]BaseChip_pipo": {
             "scaleInDock": 1
         },
+        "Promenade_Aktivbeitrag.json": {
+            "scale": 0.5500589622641509,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 827.1840497373781,
+                "y": 719.922821309894
+            }
+        },
+        "Promenade_Aktivbeitrag.json#Infotafel_Promanade_Aktivbeitrag": {
+            "scaleInDock": 1
+        },
+        "Promenade_Aktivbeitrag.json#Museumsfuehrerin_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade_Aktivbeitrag.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1
+        },
         "Promenade_Ravel.json": {
             "scale": 0.75,
-            "selectedLayer": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 663.9999999999999,
+                "x": 662.6666666666667,
                 "y": 512
             }
         },
@@ -479,7 +496,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Gnom",
+    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Promenade_Aktivbeitrag",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 20,
@@ -488,11 +505,11 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Gnom.json",
         "Promenade_Ravel.json",
         "Promenade.json",
         "foyer.json",
         "lightcastle.json",
-        "Gnom.json",
         "vorlage22x10.json",
         "Ballett_Kuecklein.json",
         "Schloss.json",
