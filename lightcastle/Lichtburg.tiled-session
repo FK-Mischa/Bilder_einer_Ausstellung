@@ -5,8 +5,8 @@
     },
     "activeFile": "",
     "expandedProjectPaths": [
-        "Pipoya RPG Tileset 32x32",
-        "."
+        ".",
+        "Pipoya RPG Tileset 32x32"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -354,16 +354,16 @@
             "scale": 0.95,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 503.15789473684214,
-                "y": 242.1052631578947
+                "x": 453.6842105263158,
+                "y": 241.05263157894737
             }
         },
         "foyer.json#Infotafel_text_skaliert": {
-            "scaleInDock": 0.25,
+            "scaleInDock": 1,
             "scaleInEditor": 0.25
         },
         "foyer.json#Lichtburg_Foyer-09-08-03_6356-1024x681": {
-            "scaleInDock": 0.25,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "foyer.json#Lichtburg_Foyer-skalliert": {
@@ -378,7 +378,7 @@
             "scale": 0.95,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 419.4736842105263,
+                "x": 420,
                 "y": 308.42105263157896
             }
         },
@@ -437,8 +437,8 @@
             "scale": 1.218478260869565,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 334.0231935771633,
-                "y": 398.8581623550402
+                "x": 343.0508474576272,
+                "y": 351.2578055307761
             }
         },
         "vorlage22x10.json#Lichtburg_Ballett_Stuhlreihen_skaliert": {
@@ -479,7 +479,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Promenade_Ravel",
+    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Gnom",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 20,
@@ -488,18 +488,18 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "vorlage22x10.json",
+        "foyer.json",
         "Promenade_Ravel.json",
         "Promenade.json",
         "Ballett_Kuecklein.json",
         "Schloss.json",
         "Gnom.json",
-        "foyer.json",
         "Gnom_neu.json",
         "Promenade_neu.json",
         "Gnomneu.json",
         "room1.json",
-        "Promenade_1.json",
-        "Promenade_2.json"
+        "Promenade_1.json"
     ],
     "tileset.embedInMap": true
 }
