@@ -63,7 +63,7 @@
                  "value":".\/Schloss.json#entrySchloss"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":52,
          "x":0,
          "y":0
@@ -75,7 +75,7 @@
          "name":"Boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":52,
          "x":0,
          "y":0
@@ -93,7 +93,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":52,
          "x":0,
          "y":0
@@ -105,7 +105,7 @@
          "name":"Paedagogik",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":52,
          "x":0,
          "y":0
