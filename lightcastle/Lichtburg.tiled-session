@@ -118,6 +118,21 @@
         "Ballett_Kuecklein.json#[Base]BaseChip_pipo": {
             "scaleInDock": 0.75
         },
+        "Blauer_Salon.json": {
+            "scale": 0.8492424242424241,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 494.5584299732383,
+                "y": 335.5932203389831
+            }
+        },
+        "Blauer_Salon.json#Lichtburg_09-08-03_pano_6332-1024x577 Blauer Salon": {
+            "scaleInDock": 1
+        },
+        "Blauer_Salon.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Gnom.json": {
             "scale": 0.8492424242424241,
             "selectedLayer": 5,
@@ -269,7 +284,7 @@
         },
         "Promenade_Aktivbeitrag.json": {
             "scale": 0.5500589622641509,
-            "selectedLayer": 3,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 827.1840497373781,
                 "y": 719.922821309894
@@ -286,7 +301,7 @@
         },
         "Promenade_Ravel.json": {
             "scale": 0.75,
-            "selectedLayer": 5,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 662.6666666666667,
                 "y": 512
@@ -334,7 +349,7 @@
         },
         "Schloss.json": {
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 344,
                 "y": 71
@@ -496,7 +511,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Promenade_Aktivbeitrag",
+    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Blauer_Salon",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 20,
@@ -505,18 +520,18 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Ballett_Kuecklein.json",
+        "Blauer_Salon.json",
+        "Promenade_Aktivbeitrag.json",
+        "Schloss.json",
         "Promenade_Ravel.json",
-        "Gnom.json",
         "Promenade.json",
         "foyer.json",
+        "Gnom.json",
         "lightcastle.json",
         "vorlage22x10.json",
-        "Ballett_Kuecklein.json",
-        "Schloss.json",
         "Gnom_neu.json",
-        "Promenade_neu.json",
-        "Gnomneu.json",
-        "room1.json"
+        "Promenade_neu.json"
     ],
     "tileset.embedInMap": true
 }
