@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/foyer.json#entryFoyer"
+                 "value":".\/foyer.json#entryfoyer"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -402,7 +402,7 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 5,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 516.3157894736843,
                 "y": 320
