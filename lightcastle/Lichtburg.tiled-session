@@ -89,9 +89,9 @@
         },
         "Ballett_Kuecklein.json": {
             "scale": 0.9008300781249999,
-            "selectedLayer": 0,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 508.4199685619816,
+                "x": 508.97501219578294,
                 "y": 291.9529513794786
             }
         },
@@ -125,7 +125,7 @@
             "scale": 0.8492424242424241,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 494.5584299732383,
+                "x": 495.14719000892075,
                 "y": 335.5932203389831
             }
         },
@@ -138,9 +138,9 @@
         },
         "Gnom.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 6,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 538.1266726137378,
+                "x": 538.7154326494202,
                 "y": 357.9661016949153
             }
         },
@@ -223,19 +223,31 @@
         },
         "Promenade.json": {
             "scale": 0.5500589622641509,
-            "selectedLayer": 2,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 827.1840497373781,
-                "y": 338.14556758495024
+                "x": 839.0009647336266,
+                "y": 496.31042984242697
             }
         },
         "Promenade.json#Infotafel_Promenade_1_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade.json#Infotafel_Promenade_skaliert": {
             "scaleInDock": 1
         },
         "Promenade.json#Modest_Músorgski,_por_Iliá_Repin_skaliert": {
             "scaleInDock": 1
         },
         "Promenade.json#Museumsfuehrerin_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade.json#Mussorgsky_Bildunterschrift_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade.json#Staffeleil_text_skaliert": {
+            "scaleInDock": 1
+        },
+        "Promenade.json#Viktor_Hartmann_skaliert": {
             "scaleInDock": 1
         },
         "Promenade.json#[Base]BaseChip_pipo": {
@@ -390,11 +402,14 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 453.6842105263158,
-                "y": 241.05263157894737
+                "x": 516.3157894736843,
+                "y": 320
             }
+        },
+        "foyer.json#Ausgang_skaliert": {
+            "scaleInDock": 1
         },
         "foyer.json#Infotafel_text_skaliert": {
             "scaleInDock": 1,
@@ -414,9 +429,9 @@
         },
         "lightcastle.json": {
             "scale": 0.95,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 420,
+                "x": 420.5263157894737,
                 "y": 308.42105263157896
             }
         },
@@ -517,7 +532,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Promenade",
+    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Foyer",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 20,
@@ -527,15 +542,15 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "lightcastle.json",
         "Gnom.json",
+        "Promenade.json",
         "Ballett_Kuecklein.json",
         "Blauer_Salon.json",
         "Promenade_Aktivbeitrag.json",
         "Schloss.json",
         "Promenade_Ravel.json",
-        "Promenade.json",
         "foyer.json",
-        "lightcastle.json",
         "vorlage22x10.json",
         "Gnom_neu.json",
         "Promenade_neu.json"
