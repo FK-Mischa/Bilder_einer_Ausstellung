@@ -11,7 +11,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.33,
             "scaleInEditor": 1
         },
         "Altes Schloss.json": {
@@ -89,9 +89,9 @@
         },
         "Ballett_Kuecklein.json": {
             "scale": 0.9008300781249999,
-            "selectedLayer": 4,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 508.97501219578294,
+                "x": 508.97501219578305,
                 "y": 291.9529513794786
             }
         },
@@ -125,7 +125,7 @@
             "scale": 0.8492424242424241,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 495.14719000892075,
+                "x": 496.3247100802855,
                 "y": 335.5932203389831
             }
         },
@@ -138,10 +138,10 @@
         },
         "Gnom.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 3,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 538.7154326494202,
-                "y": 357.9661016949153
+                "y": 447.45762711864415
             }
         },
         "Gnom.json#Gnom_skaliert": {
@@ -544,9 +544,9 @@
     "recentFiles": [
         "lightcastle.json",
         "Gnom.json",
-        "Promenade.json",
-        "Ballett_Kuecklein.json",
         "Blauer_Salon.json",
+        "Ballett_Kuecklein.json",
+        "Promenade.json",
         "Promenade_Aktivbeitrag.json",
         "Schloss.json",
         "Promenade_Ravel.json",
