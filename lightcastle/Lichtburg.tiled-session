@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Ballett_Kuecklein.json",
     "expandedProjectPaths": [
         ".",
         "Pipoya RPG Tileset 32x32"
@@ -89,9 +89,9 @@
         },
         "Ballett_Kuecklein.json": {
             "scale": 0.9008300781249999,
-            "selectedLayer": 4,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 508.4199685619817,
+                "x": 508.4199685619816,
                 "y": 291.9529513794786
             }
         },
@@ -138,11 +138,14 @@
         },
         "Gnom.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 5,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 538.1266726137378,
                 "y": 357.9661016949153
             }
+        },
+        "Gnom.json#Gnom_skaliert": {
+            "scaleInDock": 1
         },
         "Gnom.json#Infotafel_Gnom_skaliert": {
             "scaleInDock": 1
@@ -220,10 +223,10 @@
         },
         "Promenade.json": {
             "scale": 0.5500589622641509,
-            "selectedLayer": 4,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 827.1840497373781,
-                "y": 719.922821309894
+                "y": 338.14556758495024
             }
         },
         "Promenade.json#Infotafel_Promenade_1_skaliert": {
@@ -519,10 +522,12 @@
     "map.lastUsedFormat": "json",
     "map.width": 20,
     "openFiles": [
+        "Ballett_Kuecklein.json"
     ],
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Gnom.json",
         "Ballett_Kuecklein.json",
         "Blauer_Salon.json",
         "Promenade_Aktivbeitrag.json",
@@ -530,7 +535,6 @@
         "Promenade_Ravel.json",
         "Promenade.json",
         "foyer.json",
-        "Gnom.json",
         "lightcastle.json",
         "vorlage22x10.json",
         "Gnom_neu.json",
