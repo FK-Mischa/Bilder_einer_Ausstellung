@@ -545,8 +545,8 @@
     "project": "Lichtburg.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "foyer.json",
         "Blauer_Salon.json",
+        "foyer.json",
         "Ballett_Kuecklein.json",
         "lightcastle.json",
         "Gnom.json",
