@@ -429,7 +429,7 @@
         },
         "lightcastle.json": {
             "scale": 0.95,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 420.5263157894737,
                 "y": 308.42105263157896
