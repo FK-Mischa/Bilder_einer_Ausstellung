@@ -4319,6 +4319,10 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "firstgid":1641,
+         "source":"Pipoya RPG Tileset 32x32\/SampleMap\/mapUtilities.tsx"
         }],
  "tilewidth":32,
  "type":"map",

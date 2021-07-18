@@ -3,8 +3,9 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Gnom.json",
+    "activeFile": "Promenade.json",
     "expandedProjectPaths": [
+        "Pipoya RPG Tileset 32x32/SampleMap",
         ".",
         "Pipoya RPG Tileset 32x32"
     ],
@@ -91,7 +92,7 @@
             "scale": 0.9008300781249999,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 510.0850994633855,
+                "x": 508.975012195783,
                 "y": 291.9529513794786
             }
         },
@@ -140,8 +141,8 @@
             "scale": 0.8492424242424241,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 512.221231043711,
-                "y": 336.77074041034797
+                "x": 406.8331846565567,
+                "y": 539.3041926851026
             }
         },
         "Gnom.json#Gnom_skaliert": {
@@ -221,12 +222,16 @@
         "Neuvorlage.json#[Base]BaseChip_pipo": {
             "scaleInDock": 1
         },
+        "Pipoya RPG Tileset 32x32/SampleMap/mapUtilities.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Promenade.json": {
             "scale": 0.5500589622641509,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 832.6380105048772,
-                "y": 481.7665344624291
+                "x": 833.5470039661274,
+                "y": 483.5845213849288
             }
         },
         "Promenade.json#Infotafel_Promenade_1_skaliert": {
@@ -321,7 +326,7 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 832,
+                "x": 831.3333333333333,
                 "y": 479.99999999999994
             }
         },
@@ -369,7 +374,7 @@
             "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 352,
+                "x": 352.5,
                 "y": 160
             }
         },
@@ -400,11 +405,25 @@
         "Schloss.json#neuSchlossbreite640": {
             "scaleInDock": 1
         },
+        "W:/github/Unibeispiel_Fabian/testkarte-main/map.json": {
+            "scale": 0.52725,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 801.3276434329066,
+                "y": 800.3793266951161
+            }
+        },
+        "W:/github/Unibeispiel_Fabian/testkarte-main/map.json#BaseChip_pipo_rearranged": {
+            "scaleInDock": 1
+        },
+        "W:/github/Unibeispiel_Fabian/testkarte-main/map.json#mapUtilities": {
+            "scaleInDock": 1
+        },
         "foyer.json": {
             "scale": 0.95,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 512.6315789473683,
+                "x": 512.1052631578947,
                 "y": 335.7894736842105
             }
         },
@@ -535,32 +554,31 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "W:/github/Bilder_einer_Ausstellung/lightcastle/tiles/Foyer",
+    "last.externalTilesetPath": "W:/github/Bilder_einer_Ausstellung/lightcastle/Pipoya RPG Tileset 32x32/SampleMap",
+    "last.imagePath": "W:/github/Unibeispiel_Fabian/testkarte-main",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 20,
     "openFiles": [
-        "foyer.json",
-        "Promenade.json",
-        "Gnom.json",
-        "Promenade_Ravel.json",
-        "Schloss.json"
+        "Ballett_Kuecklein.json",
+        "Promenade.json"
     ],
-    "project": "Lichtburg.tiled-project",
+    "project": "Lichtburg_2021_04_23.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "foyer.json",
-        "Promenade.json",
-        "Schloss.json",
-        "Promenade_Ravel.json",
-        "Gnom.json",
-        "Blauer_Salon.json",
         "Ballett_Kuecklein.json",
+        "Promenade.json",
         "lightcastle.json",
+        "foyer.json",
+        "Pipoya RPG Tileset 32x32/SampleMap/mapUtilities.tsx",
+        "W:/github/Unibeispiel_Fabian/testkarte-main/map.json",
+        "Gnom.json",
+        "Promenade_Ravel.json",
+        "Schloss.json",
+        "Blauer_Salon.json",
         "Promenade_Aktivbeitrag.json",
-        "vorlage22x10.json",
-        "Gnom_neu.json",
-        "Promenade_neu.json"
+        "vorlage22x10.json"
     ],
-    "tileset.embedInMap": true
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Tiled Tileset Dateien (*.tsx *.xml)"
 }
