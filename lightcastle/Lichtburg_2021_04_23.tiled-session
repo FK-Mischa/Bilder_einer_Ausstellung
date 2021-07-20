@@ -3,10 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Promenade.json",
+    "activeFile": "Promenade_Ravel.json",
     "expandedProjectPaths": [
-        "Pipoya RPG Tileset 32x32/SampleMap",
         "Pipoya RPG Tileset 32x32",
+        "Pipoya RPG Tileset 32x32/SampleMap",
         "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -327,7 +327,7 @@
             "selectedLayer": 1,
             "viewCenter": {
                 "x": 713.3333333333333,
-                "y": 705.3333333333333
+                "y": 702
             }
         },
         "Promenade_Ravel.json#InfotafelRavelskaliert": {
@@ -560,23 +560,22 @@
     "map.lastUsedFormat": "json",
     "map.width": 20,
     "openFiles": [
-        "Ballett_Kuecklein.json",
-        "Promenade.json"
+        "Promenade_Ravel.json"
     ],
     "project": "Lichtburg_2021_04_23.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "lightcastle.json",
+        "Promenade_Ravel.json",
         "Ballett_Kuecklein.json",
-        "Gnom.json",
-        "Schloss.json",
         "Promenade.json",
         "foyer.json",
+        "Promenade_Aktivbeitrag.json",
+        "lightcastle.json",
+        "Gnom.json",
         "Pipoya RPG Tileset 32x32/SampleMap/mapUtilities.tsx",
         "W:/github/Unibeispiel_Fabian/testkarte-main/map.json",
-        "Promenade_Ravel.json",
+        "Schloss.json",
         "Blauer_Salon.json",
-        "Promenade_Aktivbeitrag.json",
         "vorlage22x10.json"
     ],
     "tileset.embedInMap": true,

@@ -30,7 +30,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/music\/Promenade_Skidmore_College_Orchestra_CCPD.wav"
+                 "value":".\/music\/Promenade_Skidmore_College_Orchestra_CCPD.MP3"
                 }],
          "type":"tilelayer",
          "visible":true,
