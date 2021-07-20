@@ -139,10 +139,10 @@
         },
         "Gnom.json": {
             "scale": 0.8492424242424241,
-            "selectedLayer": 5,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 406.8331846565567,
-                "y": 539.3041926851026
+                "x": 469.8305084745764,
+                "y": 237.8590544157003
             }
         },
         "Gnom.json#Gnom_skaliert": {
@@ -228,10 +228,10 @@
         },
         "Promenade.json": {
             "scale": 0.5500589622641509,
-            "selectedLayer": 6,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 833.5470039661274,
-                "y": 483.5845213849288
+                "x": 884.4506377961196,
+                "y": 476.3125736949299
             }
         },
         "Promenade.json#Infotafel_Promenade_1_skaliert": {
@@ -309,8 +309,8 @@
             "scale": 0.5500589622641509,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 827.1840497373781,
-                "y": 719.922821309894
+                "x": 516.3082859899239,
+                "y": 714.4688605423949
             }
         },
         "Promenade_Aktivbeitrag.json#Infotafel_Promanade_Aktivbeitrag": {
@@ -326,8 +326,8 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 831.3333333333333,
-                "y": 479.99999999999994
+                "x": 798,
+                "y": 712
             }
         },
         "Promenade_Ravel.json#InfotafelRavelskaliert": {
@@ -421,9 +421,9 @@
         },
         "foyer.json": {
             "scale": 0.95,
-            "selectedLayer": 5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 512.1052631578947,
+                "x": 501.57894736842104,
                 "y": 335.7894736842105
             }
         },
@@ -451,9 +451,9 @@
         },
         "lightcastle.json": {
             "scale": 0.95,
-            "selectedLayer": 2,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 420.5263157894737,
+                "x": 421.05263157894734,
                 "y": 308.42105263157896
             }
         },
