@@ -4337,30 +4337,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":9,
-         "firstgid":1641,
-         "image":"..\/..\/Unibeispiel_Fabian\/testkarte-main\/mapUtilities.png",
-         "imageheight":34,
-         "imagewidth":306,
-         "margin":1,
-         "name":"mapUtilities",
-         "spacing":2,
-         "tilecount":9,
-         "tileheight":32,
-         "tiles":[
-                {
-                 "id":3,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }],
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
