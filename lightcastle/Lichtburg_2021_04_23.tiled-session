@@ -92,8 +92,8 @@
             "scale": 0.9008300781249999,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 511.19518673098815,
-                "y": 287.51260230906826
+                "x": 414.0625508157624,
+                "y": 283.07225323865794
             }
         },
         "Ballett_Kuecklein.json#Infotafel": {
@@ -141,8 +141,8 @@
             "scale": 0.8492424242424241,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 469.8305084745764,
-                "y": 237.8590544157003
+                "x": 392.11418376449603,
+                "y": 236.6815343443355
             }
         },
         "Gnom.json#Gnom_skaliert": {
@@ -230,8 +230,8 @@
             "scale": 0.5500589622641509,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 884.4506377961196,
-                "y": 476.3125736949299
+                "x": 672.655161324901,
+                "y": 474.4945867724301
             }
         },
         "Promenade.json#Infotafel_Promenade_1_skaliert": {
@@ -309,8 +309,8 @@
             "scale": 0.5500589622641509,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 516.3082859899239,
-                "y": 714.4688605423949
+                "x": 287.24193375495776,
+                "y": 712.650873619895
             }
         },
         "Promenade_Aktivbeitrag.json#Infotafel_Promanade_Aktivbeitrag": {
@@ -326,8 +326,8 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 798,
-                "y": 712
+                "x": 714.6666666666665,
+                "y": 706.6666666666665
             }
         },
         "Promenade_Ravel.json#InfotafelRavelskaliert": {
@@ -423,8 +423,8 @@
             "scale": 0.95,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 501.57894736842104,
-                "y": 335.7894736842105
+                "x": 377.8947368421052,
+                "y": 334.7368421052631
             }
         },
         "foyer.json#Ausgang_skaliert": {
@@ -451,18 +451,18 @@
         },
         "lightcastle.json": {
             "scale": 0.95,
-            "selectedLayer": 4,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 421.05263157894734,
-                "y": 308.42105263157896
+                "x": 351.57894736842104,
+                "y": 307.36842105263156
             }
         },
         "lightcastle.json#Lichtburg_aussen_skalliert": {
-            "scaleInDock": 0.25,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "lightcastle.json#[Base]BaseChip_pipo": {
-            "scaleInDock": 0.25,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "room1.json": {
