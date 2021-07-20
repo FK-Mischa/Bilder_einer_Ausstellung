@@ -5,9 +5,9 @@
     },
     "activeFile": "Promenade_Ravel.json",
     "expandedProjectPaths": [
-        "Pipoya RPG Tileset 32x32",
+        ".",
         "Pipoya RPG Tileset 32x32/SampleMap",
-        "."
+        "Pipoya RPG Tileset 32x32"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -326,7 +326,7 @@
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 713.3333333333333,
+                "x": 712.6666666666666,
                 "y": 702
             }
         },
