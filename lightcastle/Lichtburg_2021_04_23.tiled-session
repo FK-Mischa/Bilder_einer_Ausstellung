@@ -92,8 +92,8 @@
             "scale": 0.9008300781249999,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 511.19518673098815,
-                "y": 287.51260230906826
+                "x": 414.0625508157624,
+                "y": 283.07225323865794
             }
         },
         "Ballett_Kuecklein.json#Infotafel": {
@@ -230,7 +230,7 @@
             "scale": 0.5500589622641509,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 673.5641547861508,
+                "x": 672.655161324901,
                 "y": 474.4945867724301
             }
         },
@@ -326,7 +326,7 @@
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 714,
+                "x": 713.3333333333333,
                 "y": 705.3333333333333
             }
         },
@@ -372,10 +372,10 @@
         },
         "Schloss.json": {
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 156.5,
-                "y": 159
+                "x": 352.5,
+                "y": 160
             }
         },
         "Schloss.json#Infotafel_Gnom_skaliert": {
@@ -453,7 +453,7 @@
             "scale": 0.95,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 352.1052631578947,
+                "x": 351.57894736842104,
                 "y": 307.36842105263156
             }
         },
@@ -566,15 +566,15 @@
     "project": "Lichtburg_2021_04_23.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Ballett_Kuecklein.json",
-        "Promenade.json",
         "lightcastle.json",
+        "Ballett_Kuecklein.json",
         "Gnom.json",
+        "Schloss.json",
+        "Promenade.json",
         "foyer.json",
         "Pipoya RPG Tileset 32x32/SampleMap/mapUtilities.tsx",
         "W:/github/Unibeispiel_Fabian/testkarte-main/map.json",
         "Promenade_Ravel.json",
-        "Schloss.json",
         "Blauer_Salon.json",
         "Promenade_Aktivbeitrag.json",
         "vorlage22x10.json"
